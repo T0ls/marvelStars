@@ -1,0 +1,86 @@
+.dropdown-toggle::after {
+	display: none;
+}
+.dropdown-menu {
+	margin-top: 30px;
+}
+.dropdown-menu-end {
+	right: 0;
+	left: auto;
+}
+.aHide {
+	color: inherit;
+	text-decoration: none;
+}
+.aHide:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+/* rimuove outline search della navbar */
+.form-control:focus {
+	outline: none;
+	box-shadow: none;
+}
+.cardBg {
+	background: 
+		radial-gradient(circle at top center, rgba(255, 255, 255, 0.6), transparent 50%),
+		linear-gradient(to top, #0f1e2e, #2a4b75);
+}
+.borderP {
+	background-color: black;
+	clip-path: url(#pMask);
+	padding: 0 2px 3px 2px;
+}
+.borderImg {
+	background-color: black;
+	clip-path: url(#imgMask);
+	padding: 3px 2px 0px 2px;
+}
+
+
+.card-footer {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+@media (max-width: 576px) {
+	.figurinaImg {
+		width: 150px;
+		height: 150px;
+	}
+	.figurinaName {
+		width: 150px;
+	}
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+	.figurinaImg {
+		width: 150px;
+		height: 150px;
+	}
+	.figurinaName {
+		width: 150px;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+	.figurinaImg {
+		width: 150px;
+		height: 150px;
+	}
+	.figurinaName {
+		width: 150px;
+	}
+}
+
+@media (min-width: 993px) {
+	.figurinaImg {
+		width: 150px;
+		height: 150px;
+	}
+	.figurinaName {
+		width: 150px;
+	}
+}

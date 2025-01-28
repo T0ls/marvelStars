@@ -1,0 +1,914 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "PWM-MarvelStars",
+    "description": "Swagger for Marvel-Stars API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000/"
+    }
+  ],
+  "paths": {
+    "/users/getData": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Get User Data",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "206": {
+            "description": "Partial Content"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/users/packsQuantity": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Get User packs quantity",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/users/logout": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Logout User",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/users/login": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Log a user into his account using credential",
+        "description": "",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/userLogin"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/registr": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Create and add a new user to the platform!",
+        "description": "",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "409": {
+            "description": "Conflict"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/userSignIn"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/spacchettamento": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Pack Opening!",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/openPacks"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/editProfile": {
+      "put": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Edit user profile",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "409": {
+            "description": "Conflict"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/userEditProfile"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/users/delete": {
+      "delete": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "Delete a User PERMANENTLY!",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "409": {
+            "description": "Conflict"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/buy/enoughHp/{price}": {
+      "get": {
+        "tags": [
+          "Buy"
+        ],
+        "summary": "Check if user can afford a transaction",
+        "description": "",
+        "parameters": [
+          {
+            "name": "price",
+            "in": "path",
+            "description": "Quantity to be checked",
+            "required": true,
+            "example": 25,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": ""
+          }
+        }
+      }
+    },
+    "/buy/hp": {
+      "put": {
+        "tags": [
+          "Buy"
+        ],
+        "summary": "buy some Hp",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/buyHp"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/buy/packs": {
+      "put": {
+        "tags": [
+          "Buy"
+        ],
+        "summary": "Buy some packs",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/buyPacks"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/orders/getUserOrders": {
+      "get": {
+        "tags": [
+          "Orders"
+        ],
+        "summary": "Get user Orders from his account",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "204": {
+            "description": "No Content"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/orders/getOrders": {
+      "post": {
+        "tags": [
+          "Orders"
+        ],
+        "summary": "Get 1 or many orders with ordersId",
+        "description": "",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "204": {
+            "description": "No Content"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/getOrders"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/orders/placeOrder": {
+      "post": {
+        "tags": [
+          "Orders"
+        ],
+        "summary": "Place an order on the marketplace",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "409": {
+            "description": "Conflict"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/placeOrder"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/orders/buyOrder": {
+      "put": {
+        "tags": [
+          "Orders"
+        ],
+        "summary": "Buy an order from marketplace",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/buyOrder"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/orders/deleteOrder": {
+      "delete": {
+        "tags": [
+          "Orders"
+        ],
+        "summary": "delete a User order with orderId",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/deleteOrder"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/collection/getCollection": {
+      "get": {
+        "tags": [
+          "Misc"
+        ],
+        "summary": "Get a user Collection",
+        "description": "",
+        "parameters": [
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "204": {
+            "description": "No Content"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/cards/getCards": {
+      "post": {
+        "tags": [
+          "Misc"
+        ],
+        "summary": "Get a card details",
+        "description": "",
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/getCards"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/sU/getUserAccess/{userId}": {
+      "get": {
+        "tags": [
+          "SuperUser"
+        ],
+        "summary": "Log a superUser into an another user",
+        "description": "",
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "ID of the user to log into",
+            "example": "100001"
+          },
+          {
+            "name": "cookie",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "BearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    },
+    "schemas": {
+      "userLogin": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "example": "giugiust2002@gmail.com"
+          },
+          "password": {
+            "type": "string",
+            "example": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+          }
+        },
+        "required": [
+          "email",
+          "password"
+        ]
+      },
+      "openPacks": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "example": "common"
+          }
+        },
+        "required": [
+          "type"
+        ]
+      },
+      "userSignIn": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "example": "gianniCaproni1886@gmail.com"
+          },
+          "password": {
+            "type": "string",
+            "example": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+          },
+          "name": {
+            "type": "string",
+            "example": "Gianni"
+          },
+          "surname": {
+            "type": "string",
+            "example": "Caproni"
+          },
+          "username": {
+            "type": "string",
+            "example": "gianniCaproni86"
+          }
+        },
+        "required": [
+          "email",
+          "password",
+          "name",
+          "surname",
+          "username"
+        ]
+      },
+      "userEditProfile": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "example": "lorenzoSpinachi@hotmail.com"
+          },
+          "password": {
+            "type": "string",
+            "example": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+          },
+          "name": {
+            "type": "string",
+            "example": "lorenzo"
+          },
+          "surname": {
+            "type": "string",
+            "example": "spinachi"
+          },
+          "username": {
+            "type": "string",
+            "example": "lorySpin99"
+          },
+          "favoredHeroId": {
+            "type": "number",
+            "example": 1009610
+          }
+        }
+      },
+      "buyHp": {
+        "type": "object",
+        "properties": {
+          "quantity": {
+            "type": "number",
+            "example": 100
+          }
+        },
+        "required": [
+          "quantity"
+        ]
+      },
+      "buyPacks": {
+        "type": "object",
+        "properties": {
+          "quantity": {
+            "type": "number",
+            "example": 1
+          },
+          "type": {
+            "type": "string",
+            "example": "common"
+          },
+          "removeHp": {
+            "type": "number",
+            "example": 12
+          }
+        },
+        "required": [
+          "quantity",
+          "type",
+          "removeHp"
+        ]
+      },
+      "getOrders": {
+        "type": "object",
+        "properties": {
+          "search": {
+            "type": "array",
+            "example": [
+              300001
+            ],
+            "items": {
+              "type": "number"
+            }
+          },
+          "offset": {
+            "type": "number",
+            "example": 0
+          },
+          "limit": {
+            "type": "number",
+            "example": 0
+          }
+        }
+      },
+      "placeOrder": {
+        "type": "object",
+        "properties": {
+          "price": {
+            "type": "number",
+            "example": 25
+          },
+          "quantity": {
+            "type": "number",
+            "example": 1
+          },
+          "cardId": {
+            "type": "number",
+            "example": 300001
+          }
+        },
+        "required": [
+          "price",
+          "quantity",
+          "cardId"
+        ]
+      },
+      "buyOrder": {
+        "type": "object",
+        "properties": {
+          "orderId": {
+            "type": "number",
+            "example": 400001
+          },
+          "itemQuantity": {
+            "type": "number",
+            "example": 1
+          }
+        },
+        "required": [
+          "orderId",
+          "itemQuantity"
+        ]
+      },
+      "deleteOrder": {
+        "type": "object",
+        "properties": {
+          "orderId": {
+            "type": "number",
+            "example": 400001
+          }
+        },
+        "required": [
+          "orderId"
+        ]
+      },
+      "getCards": {
+        "type": "object",
+        "properties": {
+          "searchParam": {
+            "type": "string",
+            "example": "cardId"
+          },
+          "cards": {
+            "type": "array",
+            "example": [
+              300001,
+              300089
+            ],
+            "items": {
+              "type": "number"
+            }
+          }
+        },
+        "required": [
+          "searchParam",
+          "cards"
+        ]
+      }
+    }
+  }
+}

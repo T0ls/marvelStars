@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>MarverlStars</title>
+		<link rel="icon" href="../assets/marvelStarsIcon.webp" type="image/icon type">
+
+		<link rel="stylesheet" href="../styleFiles/styleDetails.css">
+		<!--	For Bootstrap CDN	-->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+		<!--	For Animate.css CDN	-->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+		<!--	For Vanilla-tilt.js CDN	-->
+		<script src="https://cdn.jsdelivr.net/npm/vanilla-tilt@1.7.0/dist/vanilla-tilt.min.js"></script>
+		<!--	For Hover.css CDN	-->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hover.css/css/hover-min.css">
+
+		<style>
+
+		</style>
+	</head>
+	<body>
+		<div id="genContainer" class="container py-1 px-0">
+			<div class="row m-0 align-items-center p-0 bg-body-tertiary m-0 p-0 mb-2" style="width: 100%;">
+				<div id="navBarDiv" class="col-9 px-0">
+					<nav class="navbar navbar-expand-lg bg-body-tertiary px-0 py-1">
+						<div class="container-fluid">
+							<a class="navbar-brand" href="homePage.html"><img style="height: 30px; width: 95px;" src="../assets/marvelNavImg.webp"></a>
+							<button class="navbar-toggler btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarNavDropdown">
+								<ul class="navbar-nav">
+									<li class="nav-item">
+										<a class="nav-link" aria-current="page" href="shop.html">Shop</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="market.html">Market</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" aria-current="page" href="inventory.html">Inventory</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</nav>
+				</div>
+				<div class="col-3 d-flex justify-content-end"> <!-- position-absolute top-0 end-0 mt-3 -->
+					<div class="nav-item dropdown me-2">
+						<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							<img id="profileDropdownImg" style="height: 25px; width: 25px; border-radius: 50%;" src="../assets/profileEmpty.png">
+						</a>
+						<ul class="dropdown-menu dropdown-menu-end mt-2">
+							<li><a class="dropdown-item" href="/logged/account.html">View Profile <img style="height: 20px; width: 20px;" src="../assets/profileIcon.png"></a></li>
+							<li><a class="dropdown-item" href="../docs/apiSwagger" target="_blank">Api Swagger <img style="height: 20px; width: 20px;" src="../assets/docImage.png"></a></li>
+							<li><a class="dropdown-item" href="/logged/documentation.html">Help <img style="height: 20px; width: 20px;" src="../assets/helpIcon.png"></a></li>
+							<li><a id="logoutLink" class="dropdown-item" onclick="logoutSequence()">Logout <img style="height: 20px; width: 20px;" src="../assets/logoutIcon.png"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div id="detailsCharacters">
+				<div class="card mb-1 cardBg">
+					<div class="row g-0">
+						<div class="col-12 col-sm-4">
+							<img src="../assets/imageNotFound.png" id="heroImg" class="img-fluid rounded-start" alt="...">
+						</div>
+						<div class="col-12 col-sm-8">
+							<div class="card-body">
+								<h5 id="heroName" class="card-title" style="color: white;">Card title</h5>
+								<p id="heroDescr" class="card-text" style="color: white;"></p>
+								<p class="card-text" style="color: white;">Last modify: <small class="" style="color: white;" id="lastMod"></small></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Apparitions -->
+			<div id="apparitionsGenDiv" class="m-0 p-0">
+				<template id="apparitionsGenTemplate">
+					<div class="row m-0 mb-1">
+						<div class="p-0 m-0">
+							<div id="carouselExample" class="carousel slide carousel-dark">
+								<div id="noXFound" class="d-none">
+									<h3 class="m-0 ms-2 mb-1 p-0" style="text-align: center;"><u><b id="apparitionXCategory2">X:</b></h3>
+									<div class="card">
+										<div class="card-body d-flex justify-content-center">
+											<h5 id="noXFoundH5" class="card-title">No X were found!</h5>
+										</div>
+									</div>
+								</div>
+								<div id="carouselX" class="carousel-inner d-block">
+									<h3 class="m-0 ms-2 mb-1 p-0" style="text-align: center;"><u><b id="apparitionXCategory">X:</b></h3>
+									<div id="carouselActiveX" class="carousel-item active">
+										<div class="card container col-12 m-0 p-0 align-content-center">
+											<div class="card-body p-1 row m-0">
+												<div id="containerXApparitionsActive" class="container row container row row-cols-lg-5 row-cols-md-4 row-cols-sm-2 g-1" style="display: flex; justify-content: center;">
+													<template id="templateApparition">
+														<div class="m-0 p-0">
+															<div class="col">
+																<div class="g-2" style="justify-content: center; display: flex; flex-direction: column;">
+																	<div class="detailsShadow hvr-float" style="margin: 0 auto;">
+																		<img class="detailsCardImg ComicImg" src="../assets/imageNotFound.png"> <!-- style="clip-path: url(#imgMask);" -->
+																	</div>
+																	<div class="" style="justify-content: center; display: flex;">
+																		<p class="detailsCardName comicName m-0 text-truncate"></p>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</template>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div id="carouselInactiveXs">
+										<template id="templateXApparitionsTemplateContainer">
+											<div class="carousel-item">
+												<div class="card container col-12 m-0 p-0">
+													<div class="card-body p-1 row m-0">
+														<div id="containerXApparitionsInactive" class="container row container row row-cols-lg-5 row-cols-md-4 row-cols-sm-2 g-1" style="display: flex; justify-content: center;">
+															<template id="templateApparition">
+																<div class="m-0 p-0">
+																	<div class="col">
+																		<div class="g-2" style="justify-content: center; display: flex; flex-direction: column;">
+																			<div class="detailsShadow hvr-float" style="margin: 0 auto;">
+																				<img class="detailsCardImg ComicImg" src="../assets/imageNotFound.png"> <!-- style="clip-path: url(#imgMask);" -->
+																			</div>
+																			<div class="" style="justify-content: center; display: flex;">
+																				<p class="detailsCardName comicName m-0 text-truncate"></p>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</template>
+														</div>
+													</div>
+												</div>
+											</div>
+										</template>
+									</div>
+								</div>
+								<button id="carouselControlPrev" class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+									<span class="carousel-control-prev-icon controlsBg" aria-hidden="true"></span>
+									<span class="visually-hidden">Previous</span>
+								</button>
+								<button id="carouselControlNext" class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+									<span class="carousel-control-next-icon controlsBg" aria-hidden="true"></span>
+									<span class="visually-hidden">Next</span>
+								</button>
+							</div>
+						</div>
+					</div>
+				</template>
+			</div>
+
+	<svg viewBox="0 0 100 100" style="width: 0; height: 0">
+		<clipPath id="imgMask" clipPathUnits="objectBoundingBox">
+			<path d="M0 .2 0 1 1 1 1 .2Q.85.2.85.05.5-.05.15.05.15.2 0 .2"></path>
+			<!-- <path d="M0 .2 0 .75C0 .9.4.9.5 1 .6.9 1 .9 1 .75L1 .2Q.85.2.85.05.5-.05.15.05.15.2 0 .2"></path> -->
+			<!-- <path d="M0 1 0 .15A1 1 180 011 .15L1 1Z"></path> -->
+		</clipPath>
+		<clipPath id="pMask" clipPathUnits="objectBoundingBox">
+			<path d="M0 0 0 .75C0 .9.4.9.5 1 .6.9 1 .9 1 .75L1 0"></path>
+		</clipPath>
+	</svg>
+    <!-- For Bootstrap CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- For Vanilla-tilt.js CDN -->
+    <script>VanillaTilt.init(document.querySelector(".tilt-element"));</script>
+
+	<script src="../generalJs/frontend.js"></script>
+	<script src="../generalJs/details.js"></script>
+	<script src="script.js"></script>
+    <script>
+	</script>
+</body>
+
+</html>

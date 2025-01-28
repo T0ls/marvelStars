@@ -1,0 +1,87 @@
+.dropdown-toggle::after {
+	display: none;
+}
+.dropdown-menu {
+	margin-top: 30px;
+}
+.dropdown-menu-end {
+	right: 0;
+	left: auto;
+}
+.aHide {
+	color: inherit;
+	text-decoration: none;
+}
+.aHide:hover {
+	text-decoration: underline;
+	color: blue;
+}
+/* rimuove outline search della navbar */
+.form-control:focus {
+	outline: none;
+	box-shadow: none;
+}
+.cardBg {
+	background: 
+		radial-gradient(circle at top center, rgba(255, 255, 255, 0.6), transparent 50%),
+		linear-gradient(to top, #0f1e2e, #2a4b75);
+}
+.detailsShadow {
+	box-shadow: 
+		0px 5px 15px rgba(0, 0, 0, 0.3),  /* ombra leggera lati */
+		0px 10px 20px rgba(0, 0, 0, 0.5); /* ombra marcata bottom */
+}
+.controlsBg {
+	background-color: red;
+	border-radius: 10px;
+}
+
+@media (max-width: 576px) {
+	.detailsCardImg {
+		width: 200px;
+		height: 350px;
+	}
+	.detailsCardName {
+		width: 200px;
+	}
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+	.detailsCardImg {
+		width: 200px;
+		height: 350px;
+	}
+	.detailsCardName {
+		width: 200px;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+	.detailsCardImg {
+		width: 165px;
+		height: 288px;
+	}
+	.detailsCardName {
+		width: 145px;
+	}
+}
+
+@media (min-width: 993px) and (max-width: 1199px) {
+	.detailsCardImg {
+		width: 180px;
+		height: 330px;
+	}
+	.detailsCardName {
+		width: 160px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.detailsCardImg {
+		width: 200px;
+		height: 350px;
+	}
+	.detailsCardName {
+		width: 180px;
+	}
+}

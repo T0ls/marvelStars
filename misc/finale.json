@@ -1,0 +1,9386 @@
+[
+  {
+    "id": 1009610,
+    "npt": 4480,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009726,
+    "npt": 4077,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009368,
+    "npt": 2738,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009718,
+    "npt": 2730,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009220,
+    "npt": 2529,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009165,
+    "npt": 2261,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009664,
+    "npt": 1900,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009351,
+    "npt": 1796,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009299,
+    "npt": 1543,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009262,
+    "npt": 1273,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009356,
+    "npt": 1202,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009257,
+    "npt": 997,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009662,
+    "npt": 971,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009282,
+    "npt": 958,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009268,
+    "npt": 937,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009629,
+    "npt": 915,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009175,
+    "npt": 835,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009515,
+    "npt": 763,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009187,
+    "npt": 762,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009366,
+    "npt": 740,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009243,
+    "npt": 708,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009338,
+    "npt": 680,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009546,
+    "npt": 661,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009472,
+    "npt": 650,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1010338,
+    "npt": 640,
+    "rarity": "common",
+    "priceInitial": 20
+  },
+  {
+    "id": 1009189,
+    "npt": 634,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009362,
+    "npt": 598,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009459,
+    "npt": 597,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1010791,
+    "npt": 591,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009562,
+    "npt": 584,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009471,
+    "npt": 580,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009697,
+    "npt": 579,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009592,
+    "npt": 570,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009159,
+    "npt": 563,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009583,
+    "npt": 550,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009313,
+    "npt": 527,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009281,
+    "npt": 496,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009407,
+    "npt": 496,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009417,
+    "npt": 491,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009512,
+    "npt": 459,
+    "rarity": "common",
+    "priceInitial": 21
+  },
+  {
+    "id": 1009214,
+    "npt": 458,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1016181,
+    "npt": 450,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009310,
+    "npt": 447,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009708,
+    "npt": 445,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009504,
+    "npt": 437,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009707,
+    "npt": 434,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009367,
+    "npt": 428,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009215,
+    "npt": 419,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009452,
+    "npt": 409,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1011299,
+    "npt": 398,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009524,
+    "npt": 387,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009508,
+    "npt": 377,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009724,
+    "npt": 369,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009466,
+    "npt": 368,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009337,
+    "npt": 361,
+    "rarity": "common",
+    "priceInitial": 22
+  },
+  {
+    "id": 1009554,
+    "npt": 347,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009608,
+    "npt": 341,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009318,
+    "npt": 332,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009182,
+    "npt": 320,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009343,
+    "npt": 308,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1011336,
+    "npt": 307,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009219,
+    "npt": 300,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009381,
+    "npt": 297,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009652,
+    "npt": 297,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1010360,
+    "npt": 293,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009277,
+    "npt": 291,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1017577,
+    "npt": 289,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009722,
+    "npt": 286,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009372,
+    "npt": 284,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009389,
+    "npt": 284,
+    "rarity": "common",
+    "priceInitial": 23
+  },
+  {
+    "id": 1009499,
+    "npt": 284,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009577,
+    "npt": 271,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009719,
+    "npt": 269,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1011010,
+    "npt": 264,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009365,
+    "npt": 256,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009288,
+    "npt": 251,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009185,
+    "npt": 247,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009312,
+    "npt": 244,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1011490,
+    "npt": 243,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009327,
+    "npt": 243,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1010787,
+    "npt": 239,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009465,
+    "npt": 230,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1010740,
+    "npt": 229,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009267,
+    "npt": 226,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1010771,
+    "npt": 224,
+    "rarity": "common",
+    "priceInitial": 24
+  },
+  {
+    "id": 1009480,
+    "npt": 224,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1010370,
+    "npt": 221,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009705,
+    "npt": 221,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1010738,
+    "npt": 217,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1011023,
+    "npt": 215,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009382,
+    "npt": 214,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009325,
+    "npt": 210,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009638,
+    "npt": 210,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009297,
+    "npt": 208,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009379,
+    "npt": 204,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1010354,
+    "npt": 202,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009224,
+    "npt": 201,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009609,
+    "npt": 200,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009491,
+    "npt": 199,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1009477,
+    "npt": 197,
+    "rarity": "common",
+    "priceInitial": 25
+  },
+  {
+    "id": 1010682,
+    "npt": 193,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1011109,
+    "npt": 190,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009168,
+    "npt": 189,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009276,
+    "npt": 186,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009223,
+    "npt": 181,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009227,
+    "npt": 180,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009535,
+    "npt": 179,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009539,
+    "npt": 178,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009552,
+    "npt": 177,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009378,
+    "npt": 173,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009588,
+    "npt": 173,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009490,
+    "npt": 171,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009438,
+    "npt": 168,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1011081,
+    "npt": 164,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1009184,
+    "npt": 163,
+    "rarity": "common",
+    "priceInitial": 26
+  },
+  {
+    "id": 1017603,
+    "npt": 163,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1017810,
+    "npt": 160,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009309,
+    "npt": 159,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009420,
+    "npt": 159,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009596,
+    "npt": 156,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009599,
+    "npt": 156,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009384,
+    "npt": 155,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1011001,
+    "npt": 152,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009359,
+    "npt": 151,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1011227,
+    "npt": 150,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009191,
+    "npt": 149,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009294,
+    "npt": 146,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1010744,
+    "npt": 146,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1009670,
+    "npt": 146,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1010770,
+    "npt": 142,
+    "rarity": "common",
+    "priceInitial": 27
+  },
+  {
+    "id": 1010747,
+    "npt": 141,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1010801,
+    "npt": 138,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009580,
+    "npt": 137,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009717,
+    "npt": 137,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009258,
+    "npt": 135,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009415,
+    "npt": 135,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1010852,
+    "npt": 135,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1010803,
+    "npt": 134,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009156,
+    "npt": 133,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009239,
+    "npt": 133,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009212,
+    "npt": 132,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009241,
+    "npt": 131,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009447,
+    "npt": 129,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009663,
+    "npt": 128,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009167,
+    "npt": 127,
+    "rarity": "common",
+    "priceInitial": 28
+  },
+  {
+    "id": 1009228,
+    "npt": 127,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1010860,
+    "npt": 127,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009306,
+    "npt": 126,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1010351,
+    "npt": 125,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1010892,
+    "npt": 125,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009255,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1010677,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009440,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009558,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009542,
+    "npt": 119,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009685,
+    "npt": 119,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009153,
+    "npt": 117,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009393,
+    "npt": 117,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1010808,
+    "npt": 116,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1017078,
+    "npt": 116,
+    "rarity": "common",
+    "priceInitial": 29
+  },
+  {
+    "id": 1009571,
+    "npt": 115,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1010373,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009402,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1010683,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1010733,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009648,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1017834,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009523,
+    "npt": 113,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009725,
+    "npt": 113,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009275,
+    "npt": 112,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1011335,
+    "npt": 111,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009454,
+    "npt": 111,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1011428,
+    "npt": 109,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1017814,
+    "npt": 109,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009476,
+    "npt": 109,
+    "rarity": "common",
+    "priceInitial": 30
+  },
+  {
+    "id": 1009186,
+    "npt": 107,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1011072,
+    "npt": 107,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009720,
+    "npt": 107,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009385,
+    "npt": 106,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009391,
+    "npt": 106,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1010890,
+    "npt": 105,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009148,
+    "npt": 104,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009699,
+    "npt": 104,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1017583,
+    "npt": 103,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1011285,
+    "npt": 103,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009399,
+    "npt": 103,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1011013,
+    "npt": 101,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1010925,
+    "npt": 101,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1011456,
+    "npt": 100,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1010807,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 31
+  },
+  {
+    "id": 1009413,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1010778,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1011360,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1011006,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1009406,
+    "npt": 98,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1009430,
+    "npt": 98,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1009486,
+    "npt": 97,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1014873,
+    "npt": 97,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1009287,
+    "npt": 96,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1017831,
+    "npt": 96,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1009560,
+    "npt": 96,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1010329,
+    "npt": 95,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1009404,
+    "npt": 95,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1010765,
+    "npt": 95,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1011024,
+    "npt": 94,
+    "rarity": "common",
+    "priceInitial": 32
+  },
+  {
+    "id": 1010805,
+    "npt": 94,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009425,
+    "npt": 94,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009464,
+    "npt": 93,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009733,
+    "npt": 92,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009470,
+    "npt": 91,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1011220,
+    "npt": 91,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009636,
+    "npt": 91,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1011435,
+    "npt": 90,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009619,
+    "npt": 90,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009737,
+    "npt": 90,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1010676,
+    "npt": 89,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009408,
+    "npt": 89,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1017815,
+    "npt": 88,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1009211,
+    "npt": 86,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1017575,
+    "npt": 86,
+    "rarity": "common",
+    "priceInitial": 33
+  },
+  {
+    "id": 1011809,
+    "npt": 85,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1011007,
+    "npt": 85,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009494,
+    "npt": 85,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009163,
+    "npt": 84,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1010759,
+    "npt": 84,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009321,
+    "npt": 83,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1011426,
+    "npt": 83,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1010735,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1017824,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1011223,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009525,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009714,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009492,
+    "npt": 81,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009387,
+    "npt": 81,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1010698,
+    "npt": 81,
+    "rarity": "common",
+    "priceInitial": 34
+  },
+  {
+    "id": 1009421,
+    "npt": 80,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009451,
+    "npt": 80,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009453,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1011367,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009590,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009683,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009199,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1010763,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1010946,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1011197,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009435,
+    "npt": 77,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1010935,
+    "npt": 77,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009538,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1010760,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009513,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 35
+  },
+  {
+    "id": 1009537,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1010366,
+    "npt": 75,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1010913,
+    "npt": 75,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009578,
+    "npt": 75,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1010743,
+    "npt": 74,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009376,
+    "npt": 74,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009682,
+    "npt": 74,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009216,
+    "npt": 73,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1011051,
+    "npt": 73,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009449,
+    "npt": 71,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009157,
+    "npt": 71,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009548,
+    "npt": 70,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1011096,
+    "npt": 70,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009439,
+    "npt": 70,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1011258,
+    "npt": 69,
+    "rarity": "common",
+    "priceInitial": 36
+  },
+  {
+    "id": 1009545,
+    "npt": 69,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1010933,
+    "npt": 68,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009473,
+    "npt": 68,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009692,
+    "npt": 68,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1010918,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009284,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009405,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009469,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009493,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009154,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009301,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009482,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1014858,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1010978,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1009570,
+    "npt": 65,
+    "rarity": "common",
+    "priceInitial": 37
+  },
+  {
+    "id": 1011347,
+    "npt": 65,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1010335,
+    "npt": 65,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1010784,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1010917,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009324,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1011386,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009197,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1011482,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009416,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009561,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1017838,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009205,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1011026,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009641,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1009496,
+    "npt": 61,
+    "rarity": "common",
+    "priceInitial": 38
+  },
+  {
+    "id": 1010719,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1009320,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1011056,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1011323,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1009390,
+    "npt": 59,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1010349,
+    "npt": 59,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1009146,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1011020,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1010932,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1011068,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1009522,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1011376,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1010344,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1017576,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1009233,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 39
+  },
+  {
+    "id": 1017844,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1010345,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1011542,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009208,
+    "npt": 56,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1010898,
+    "npt": 56,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009675,
+    "npt": 56,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1010782,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009180,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009280,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009355,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1011102,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009448,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1009274,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1010785,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1010726,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 40
+  },
+  {
+    "id": 1011025,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1010369,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1009144,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1010950,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1011179,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1009673,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1009709,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1009271,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1010934,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1011424,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1009468,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1010814,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1009696,
+    "npt": 51,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1010853,
+    "npt": 51,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1011500,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 41
+  },
+  {
+    "id": 1010701,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009398,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009427,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1010684,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1010669,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1011758,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1010908,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009252,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009614,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009632,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1010983,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009715,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009169,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009329,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009576,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 42
+  },
+  {
+    "id": 1009606,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1009624,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1009164,
+    "npt": 47,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1010756,
+    "npt": 47,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1010705,
+    "npt": 47,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1009434,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1011271,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1009483,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1009555,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1010358,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1010806,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1011198,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1010802,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1010371,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1009347,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43
+  },
+  {
+    "id": 1011203,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1009234,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1011054,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1010326,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1010715,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1009155,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1009305,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1011368,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1010693,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1009625,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1010359,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1011300,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1011288,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1011100,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1009410,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44
+  },
+  {
+    "id": 1009519,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1010352,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1011436,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1009581,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1010694,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1011084,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1009631,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1010825,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1011339,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1009251,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1009357,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1011241,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1015239,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1017317,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1009232,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 45
+  },
+  {
+    "id": 1012019,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009270,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009279,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009380,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1014528,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009591,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1010324,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1017574,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009170,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009217,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1011095,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1017833,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1009342,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1011116,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1010362,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46
+  },
+  {
+    "id": 1011337,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009563,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009585,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1011342,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009171,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009195,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009209,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009245,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1017835,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009283,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1010450,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1010817,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009618,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009666,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1009691,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47
+  },
+  {
+    "id": 1010906,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009330,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009411,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009509,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1010943,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009445,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1010966,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009667,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1011515,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1011297,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009158,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1017856,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1010868,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1010702,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009340,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48
+  },
+  {
+    "id": 1009361,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1011002,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1010367,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1009442,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1010347,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1011086,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1009531,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1011035,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1011265,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1010809,
+    "npt": 34,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1009334,
+    "npt": 34,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1011357,
+    "npt": 34,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1009249,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1009295,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1009328,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 49
+  },
+  {
+    "id": 1011327,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1009414,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1010894,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1010365,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1009474,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1011045,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1011078,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1009628,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1009639,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1011309,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1010348,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1009247,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1009269,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1013133,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1010363,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50
+  },
+  {
+    "id": 1010963,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1011057,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1010828,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009703,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1011298,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009172,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009261,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009349,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009514,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1011307,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009152,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009291,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1009303,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1011420,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1011131,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51
+  },
+  {
+    "id": 1010811,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009507,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009526,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009672,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009695,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1011287,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1017851,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009150,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1010671,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1011389,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009315,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009316,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009424,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009463,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1010746,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52
+  },
+  {
+    "id": 1009520,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1010971,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1010899,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011341,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1009651,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011385,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1009273,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011082,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1009307,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1010927,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1010678,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011289,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1010896,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011328,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011305,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53
+  },
+  {
+    "id": 1011244,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1011030,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1010692,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1009568,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1009573,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1009579,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1010696,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1009694,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1010992,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1017438,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1010325,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1011356,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1014994,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1011005,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1009630,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54
+  },
+  {
+    "id": 1010695,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1011138,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1010813,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1009229,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1011444,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1009460,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1011390,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1011048,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1017852,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1011346,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1011291,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1009285,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1009364,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1010873,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1009616,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55
+  },
+  {
+    "id": 1009669,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1011011,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1011907,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1011027,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1009536,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1009266,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1011148,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1009735,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1011279,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1009475,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1010957,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1010779,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1010837,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1011392,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1012080,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56
+  },
+  {
+    "id": 1010788,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1012717,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009740,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1011778,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1010687,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009204,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1011442,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009597,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1011398,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1010968,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009643,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009650,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009710,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1010919,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1009308,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 57
+  },
+  {
+    "id": 1011055,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009207,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1011399,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009686,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009734,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009736,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1010841,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009489,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009256,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009265,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1010689,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1012923,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009374,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1010854,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009456,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58
+  },
+  {
+    "id": 1009479,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1011028,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1009553,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1010969,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1010864,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1010855,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1011373,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1012295,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1016825,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1009179,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1011498,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1011270,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1010823,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1011333,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1011061,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59
+  },
+  {
+    "id": 1010926,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010818,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010681,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009547,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011427,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009484,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011338,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009188,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010799,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009383,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010731,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010758,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009363,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011404,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010810,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010762,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011181,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010822,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010984,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009716,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011031,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010836,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010911,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011416,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011097,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009244,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009259,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009348,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009360,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010752,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1011080,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010904,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1010725,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1014267,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60
+  },
+  {
+    "id": 1009532,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1011093,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1009594,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1010998,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1011018,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1014812,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1011277,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1009174,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1011090,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 61
+  },
+  {
+    "id": 1011060,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1011317,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1010832,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1009317,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1010821,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1010704,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1011343,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1009412,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1013479,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62
+  },
+  {
+    "id": 1010691,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1011123,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1017857,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1010761,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1009603,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1010833,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1010794,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1009626,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1009661,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63
+  },
+  {
+    "id": 1009684,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1010350,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1010754,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1010920,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1011233,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1012478,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1012610,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1010893,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1011312,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64
+  },
+  {
+    "id": 1014318,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1014434,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1010958,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1009505,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1009533,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1010710,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1010889,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1015280,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1010820,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65
+  },
+  {
+    "id": 1011304,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1011345,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1009698,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1017853,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1010883,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1011836,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1011353,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1011387,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1010921,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66
+  },
+  {
+    "id": 1010330,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1009292,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1009298,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1012767,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1011077,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1011105,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1013190,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1009488,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1011388,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67
+  },
+  {
+    "id": 1010861,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1009574,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1016452,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1011160,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1011477,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1009690,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1010353,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1011009,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1010737,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68
+  },
+  {
+    "id": 1009738,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1010780,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1010699,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1009160,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1009198,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1011132,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1009478,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1012512,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1010749,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69
+  },
+  {
+    "id": 1011371,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1010888,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1011421,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1009403,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1017854,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1014063,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1009485,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1014198,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1009511,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70
+  },
+  {
+    "id": 1009534,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1009589,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1010885,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1009680,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1009681,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1011281,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1011418,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1010739,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1010672,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 71
+  },
+  {
+    "id": 1014973,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1009322,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1011041,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1009336,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1010667,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1011495,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1011088,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1010685,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1010882,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72
+  },
+  {
+    "id": 1009501,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1009544,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1010976,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1010795,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1011034,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1011112,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1009701,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1011334,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1009151,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 73
+  },
+  {
+    "id": 1009190,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1009200,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1009213,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1011039,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1011016,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1011103,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1012571,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1012623,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1014985,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74
+  },
+  {
+    "id": 1010722,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1011134,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1010707,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1010962,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1011207,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1009702,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1009598,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1009627,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1010979,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75
+  },
+  {
+    "id": 1011022,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1011003,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1009687,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1017841,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1011365,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1009711,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1011043,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1010884,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1011208,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 76
+  },
+  {
+    "id": 1011209,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1009688,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1011358,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1010923,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1011098,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1011144,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1011076,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1010928,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1010930,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77
+  },
+  {
+    "id": 1009196,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1011193,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1010783,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1011250,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1011036,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1010796,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1009530,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1011210,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1011129,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78
+  },
+  {
+    "id": 1014057,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1010797,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1011202,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1011234,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1009543,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1009575,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1009587,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1011232,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1009660,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79
+  },
+  {
+    "id": 1010328,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1011231,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1009633,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1011396,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1011130,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1011236,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1009210,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1009225,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1011052,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80
+  },
+  {
+    "id": 1010907,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1011071,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1011107,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1010445,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1011218,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1010766,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1010812,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1010945,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1009437,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81
+  },
+  {
+    "id": 1011019,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1011008,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1009457,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1017840,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1010757,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1009495,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1011104,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1010334,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1010781,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82
+  },
+  {
+    "id": 1009566,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1009572,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1010975,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1010901,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1011042,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1009646,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1009676,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1009693,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1010849,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83
+  },
+  {
+    "id": 1010755,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1010674,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1011785,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1010829,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1009253,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1011087,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1010717,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1011206,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1011235,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84
+  },
+  {
+    "id": 1011213,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1014974,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1011256,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1009236,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1011257,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1010944,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1009242,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1009423,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1011350,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85
+  },
+  {
+    "id": 1009433,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1011422,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1010967,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1010790,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1011242,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1010974,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1010895,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1014905,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1009621,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86
+  },
+  {
+    "id": 1009637,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1011237,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1011239,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1011066,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1009706,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1011133,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1010996,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1009149,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1010336,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 87
+  },
+  {
+    "id": 1009177,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011101,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011037,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011199,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1010880,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011400,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011391,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011044,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1011118,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88
+  },
+  {
+    "id": 1009358,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1011876,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1010786,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1011310,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1010337,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1009260,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1010851,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1014998,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1009462,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89
+  },
+  {
+    "id": 1010956,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1009481,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1010734,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1011369,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1009311,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1009565,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1015001,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1010848,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1009601,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90
+  },
+  {
+    "id": 1011114,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1011062,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1009640,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1009644,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1011047,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1011128,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1011106,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1010372,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1010994,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91
+  },
+  {
+    "id": 1011067,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1011094,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1011766,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1010843,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1011119,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1009206,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1010887,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1010916,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1009231,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92
+  },
+  {
+    "id": 1010346,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1009286,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1010922,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1009304,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1009645,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1011318,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1011259,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1010937,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1011314,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93
+  },
+  {
+    "id": 1011092,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1011403,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1011004,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1010867,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1011370,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1010741,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1009528,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1014666,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1011348,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94
+  },
+  {
+    "id": 1011117,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1011126,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1010745,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1011032,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1009605,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1010981,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1011960,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1011311,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1010862,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95
+  },
+  {
+    "id": 1010697,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1011361,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1011301,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1010773,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1009201,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1009218,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1011937,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1009237,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1009293,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96
+  },
+  {
+    "id": 1009248,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1009302,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1010980,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1011240,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1009487,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1011251,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1009721,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1010679,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1011319,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97
+  },
+  {
+    "id": 1011074,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1011059,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1011414,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1010768,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1010732,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1010690,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1010871,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1013727,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1009455,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98
+  },
+  {
+    "id": 1010840,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1010886,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1009517,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1009584,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1012230,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1010753,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1011149,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1010713,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1009657,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99
+  },
+  {
+    "id": 1009678,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1009679,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1010668,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1011402,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1011684,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1010910,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1010881,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1011349,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1011073,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100
+  },
+  {
+    "id": 1009203,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1010776,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1010879,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1010368,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1011313,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1011222,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1010863,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1014995,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1009345,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101
+  },
+  {
+    "id": 1010675,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1011063,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1011033,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1010842,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1011147,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1011029,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1009436,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1010947,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1010357,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102
+  },
+  {
+    "id": 1009503,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1010959,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1009506,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1011154,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1010712,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1009582,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1010858,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1011157,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1009602,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103
+  },
+  {
+    "id": 1009647,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1015004,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1011352,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1011315,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1011121,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1011588,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1009742,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1017100,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1011136,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 104
+  },
+  {
+    "id": 1011176,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1010673,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1011354,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1011139,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1010143,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1012065,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1011286,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1014991,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1011142,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105
+  },
+  {
+    "id": 1011247,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1011322,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1012378,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1010703,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1011397,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1009401,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1010940,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1011053,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1011364,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106
+  },
+  {
+    "id": 1009446,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1009623,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1010826,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1011124,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1010955,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1009620,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1011150,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1011021,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1017839,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107
+  },
+  {
+    "id": 1009510,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1010964,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1011325,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1009586,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1011212,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1009635,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1010982,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1011295,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1010985,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108
+  },
+  {
+    "id": 1011261,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1009723,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1010903,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1011253,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1010830,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1009202,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1010688,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1011038,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1010914,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109
+  },
+  {
+    "id": 1010915,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1009238,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1009254,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010774,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1011188,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1009272,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1011260,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1011040,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1009278,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110
+  },
+  {
+    "id": 1014992,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1015007,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1011122,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1009335,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1014993,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010670,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010816,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010931,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1011246,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1011064,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010775,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010777,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110
+  },
+  {
+    "id": 1010936,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 111
+  },
+  {
+    "id": 1011014,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 111
+  },
+  {
+    "id": 1010869,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 111
+  },
+  {
+    "id": 1011099,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 112
+  },
+  {
+    "id": 1010924,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 112
+  },
+  {
+    "id": 1011254,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 112
+  },
+  {
+    "id": 1010952,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 113
+  },
+  {
+    "id": 1011269,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 113
+  },
+  {
+    "id": 1011228,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 113
+  },
+  {
+    "id": 1011321,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 114
+  },
+  {
+    "id": 1011151,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 114
+  },
+  {
+    "id": 1011152,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 114
+  },
+  {
+    "id": 1009502,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 115
+  },
+  {
+    "id": 1010767,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 115
+  },
+  {
+    "id": 1009600,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 115
+  },
+  {
+    "id": 1010819,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 116
+  },
+  {
+    "id": 1011978,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 116
+  },
+  {
+    "id": 1009689,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 116
+  },
+  {
+    "id": 1011226,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 117
+  },
+  {
+    "id": 1015005,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 117
+  },
+  {
+    "id": 1010716,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 117
+  },
+  {
+    "id": 1011183,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 118
+  },
+  {
+    "id": 1016823,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 118
+  },
+  {
+    "id": 1011324,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 118
+  },
+  {
+    "id": 1016824,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 119
+  },
+  {
+    "id": 1010686,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 119
+  },
+  {
+    "id": 1009550,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 119
+  },
+  {
+    "id": 1009173,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 120
+  },
+  {
+    "id": 1011793,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 120
+  },
+  {
+    "id": 1009181,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 120
+  },
+  {
+    "id": 1010356,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 121
+  },
+  {
+    "id": 1011252,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 121
+  },
+  {
+    "id": 1011141,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 121
+  },
+  {
+    "id": 1011187,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 122
+  },
+  {
+    "id": 1014999,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 122
+  },
+  {
+    "id": 1011362,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 122
+  },
+  {
+    "id": 1011050,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 123
+  },
+  {
+    "id": 1011432,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 123
+  },
+  {
+    "id": 1011177,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 123
+  },
+  {
+    "id": 1011221,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 124
+  },
+  {
+    "id": 1010929,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 124
+  },
+  {
+    "id": 1011091,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 124
+  },
+  {
+    "id": 1014996,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 125
+  },
+  {
+    "id": 1010343,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 125
+  },
+  {
+    "id": 1011293,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 125
+  },
+  {
+    "id": 1011412,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 126
+  },
+  {
+    "id": 1009388,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 126
+  },
+  {
+    "id": 1009392,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 126
+  },
+  {
+    "id": 1010939,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 127
+  },
+  {
+    "id": 1011320,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 127
+  },
+  {
+    "id": 1009418,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 127
+  },
+  {
+    "id": 1010942,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 128
+  },
+  {
+    "id": 1009422,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 128
+  },
+  {
+    "id": 1010993,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 128
+  },
+  {
+    "id": 1011184,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 129
+  },
+  {
+    "id": 1010941,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 129
+  },
+  {
+    "id": 1009541,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 129
+  },
+  {
+    "id": 1010876,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 130
+  },
+  {
+    "id": 1010331,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 130
+  },
+  {
+    "id": 1010953,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 130
+  },
+  {
+    "id": 1013483,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 131
+  },
+  {
+    "id": 1010706,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 131
+  },
+  {
+    "id": 1011329,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 131
+  },
+  {
+    "id": 1010708,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 132
+  },
+  {
+    "id": 1011419,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 132
+  },
+  {
+    "id": 1009498,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 132
+  },
+  {
+    "id": 1015000,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 133
+  },
+  {
+    "id": 1011155,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 133
+  },
+  {
+    "id": 1010711,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 133
+  },
+  {
+    "id": 1011230,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 134
+  },
+  {
+    "id": 1010973,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 134
+  },
+  {
+    "id": 1011393,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 134
+  },
+  {
+    "id": 1015002,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 135
+  },
+  {
+    "id": 1015003,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 135
+  },
+  {
+    "id": 1010764,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 135
+  },
+  {
+    "id": 1011159,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 136
+  },
+  {
+    "id": 1011075,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 136
+  },
+  {
+    "id": 1009642,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 136
+  },
+  {
+    "id": 1011854,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 137
+  },
+  {
+    "id": 1011162,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 137
+  },
+  {
+    "id": 1009653,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 137
+  },
+  {
+    "id": 1011294,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 138
+  },
+  {
+    "id": 1011211,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 138
+  },
+  {
+    "id": 1009674,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 138
+  },
+  {
+    "id": 1011425,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 139
+  },
+  {
+    "id": 1011120,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 139
+  },
+  {
+    "id": 1009497,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 139
+  },
+  {
+    "id": 1011012,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 140
+  },
+  {
+    "id": 1010827,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 140
+  },
+  {
+    "id": 1011137,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 140
+  },
+  {
+    "id": 1009178,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 141
+  },
+  {
+    "id": 1011224,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 141
+  },
+  {
+    "id": 1010859,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 141
+  },
+  {
+    "id": 1017109,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 142
+  },
+  {
+    "id": 1011113,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 142
+  },
+  {
+    "id": 1011264,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 142
+  },
+  {
+    "id": 1010912,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 143
+  },
+  {
+    "id": 1009226,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 143
+  },
+  {
+    "id": 1009230,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 143
+  },
+  {
+    "id": 1011411,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 144
+  },
+  {
+    "id": 1011410,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 144
+  },
+  {
+    "id": 1011407,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 144
+  },
+  {
+    "id": 1009250,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 145
+  },
+  {
+    "id": 1011268,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 145
+  },
+  {
+    "id": 1011306,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 145
+  },
+  {
+    "id": 1010341,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 146
+  },
+  {
+    "id": 1014997,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 146
+  },
+  {
+    "id": 1009713,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 146
+  },
+  {
+    "id": 1010355,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 147
+  },
+  {
+    "id": 1009290,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 147
+  },
+  {
+    "id": 1017858,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 147
+  },
+  {
+    "id": 1011111,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 148
+  },
+  {
+    "id": 1012513,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 148
+  },
+  {
+    "id": 1009332,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 148
+  },
+  {
+    "id": 1009333,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 149
+  },
+  {
+    "id": 1011046,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 149
+  },
+  {
+    "id": 1009341,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 149
+  },
+  {
+    "id": 1017098,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 150
+  },
+  {
+    "id": 1009529,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 150
+  },
+  {
+    "id": 1011413,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 150
+  },
+  {
+    "id": 1010878,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 151
+  },
+  {
+    "id": 1009373,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 151
+  },
+  {
+    "id": 1013163,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 151
+  },
+  {
+    "id": 1009397,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 152
+  },
+  {
+    "id": 1011375,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 152
+  },
+  {
+    "id": 1010977,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 152
+  },
+  {
+    "id": 1011408,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 153
+  },
+  {
+    "id": 1011145,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 153
+  },
+  {
+    "id": 1011405,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 153
+  },
+  {
+    "id": 1010724,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 154
+  },
+  {
+    "id": 1011205,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 154
+  },
+  {
+    "id": 1011243,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 154
+  },
+  {
+    "id": 1011417,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 155
+  },
+  {
+    "id": 1010361,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 155
+  },
+  {
+    "id": 1011204,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 155
+  },
+  {
+    "id": 1010949,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 156
+  },
+  {
+    "id": 1010902,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 156
+  },
+  {
+    "id": 1010900,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 156
+  },
+  {
+    "id": 1010954,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 157
+  },
+  {
+    "id": 1011303,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 157
+  },
+  {
+    "id": 1011409,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 157
+  },
+  {
+    "id": 1014160,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 158
+  },
+  {
+    "id": 1011326,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 158
+  },
+  {
+    "id": 1017099,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 158
+  },
+  {
+    "id": 1011189,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 159
+  },
+  {
+    "id": 1011330,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 159
+  },
+  {
+    "id": 1010769,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 159
+  },
+  {
+    "id": 1009549,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 160
+  },
+  {
+    "id": 1010970,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 160
+  },
+  {
+    "id": 1011156,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 160
+  },
+  {
+    "id": 1011079,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 161
+  },
+  {
+    "id": 1009569,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 161
+  },
+  {
+    "id": 1011167,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 161
+  },
+  {
+    "id": 1011406,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 162
+  },
+  {
+    "id": 1017111,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 162
+  },
+  {
+    "id": 1011394,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 162
+  },
+  {
+    "id": 1010824,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 163
+  },
+  {
+    "id": 1017101,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 163
+  },
+  {
+    "id": 1011070,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 163
+  },
+  {
+    "id": 1010874,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 164
+  },
+  {
+    "id": 1011017,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 164
+  },
+  {
+    "id": 1011395,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 164
+  },
+  {
+    "id": 1011161,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 165
+  },
+  {
+    "id": 1011896,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 165
+  },
+  {
+    "id": 1011219,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 165
+  },
+  {
+    "id": 1011216,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 166
+  },
+  {
+    "id": 1009668,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 166
+  },
+  {
+    "id": 1011125,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 166
+  },
+  {
+    "id": 1010847,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 167
+  },
+  {
+    "id": 1010987,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 167
+  },
+  {
+    "id": 1010990,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 167
+  },
+  {
+    "id": 1010991,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 168
+  },
+  {
+    "id": 1010995,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 168
+  },
+  {
+    "id": 1011127,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 168
+  },
+  {
+    "id": 1009741,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 169
+  },
+  {
+    "id": 1011266,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 169
+  },
+  {
+    "id": 1010846,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 169
+  },
+  {
+    "id": 1011175,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 170
+  },
+  {
+    "id": 1010870,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 170
+  },
+  {
+    "id": 1011194,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 170
+  },
+  {
+    "id": 1011170,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 171
+  },
+  {
+    "id": 1009240,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 171
+  },
+  {
+    "id": 1011214,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 171
+  },
+  {
+    "id": 1014990,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 172
+  },
+  {
+    "id": 1011164,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 172
+  },
+  {
+    "id": 1009567,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 172
+  },
+  {
+    "id": 1011382,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 173
+  },
+  {
+    "id": 1010905,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 173
+  },
+  {
+    "id": 1009346,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 173
+  },
+  {
+    "id": 1010866,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 174
+  },
+  {
+    "id": 1011275,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 174
+  },
+  {
+    "id": 1010748,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 174
+  },
+  {
+    "id": 1009161,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 175
+  },
+  {
+    "id": 1010718,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 175
+  },
+  {
+    "id": 1009162,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 175
+  },
+  {
+    "id": 1010835,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 176
+  },
+  {
+    "id": 1010909,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 176
+  },
+  {
+    "id": 1009176,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 176
+  },
+  {
+    "id": 1011296,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 177
+  },
+  {
+    "id": 1011262,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 177
+  },
+  {
+    "id": 1009183,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 177
+  },
+  {
+    "id": 1017330,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 178
+  },
+  {
+    "id": 1017296,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 178
+  },
+  {
+    "id": 1010850,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 178
+  },
+  {
+    "id": 1014981,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 179
+  },
+  {
+    "id": 1017307,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 179
+  },
+  {
+    "id": 1017472,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 179
+  },
+  {
+    "id": 1011276,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 180
+  },
+  {
+    "id": 1017295,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 180
+  },
+  {
+    "id": 1017327,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 180
+  },
+  {
+    "id": 1017105,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 181
+  },
+  {
+    "id": 1011190,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 181
+  },
+  {
+    "id": 1011196,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 181
+  },
+  {
+    "id": 1011355,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 182
+  },
+  {
+    "id": 1009344,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 182
+  },
+  {
+    "id": 1011140,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 182
+  },
+  {
+    "id": 1011015,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 183
+  },
+  {
+    "id": 1011331,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 183
+  },
+  {
+    "id": 1011359,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 183
+  },
+  {
+    "id": 1010798,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 184
+  },
+  {
+    "id": 1009246,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 184
+  },
+  {
+    "id": 1011272,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 184
+  },
+  {
+    "id": 1017323,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 185
+  },
+  {
+    "id": 1011169,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 185
+  },
+  {
+    "id": 1011174,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 185
+  },
+  {
+    "id": 1017473,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 186
+  },
+  {
+    "id": 1017292,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 186
+  },
+  {
+    "id": 1017312,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 186
+  },
+  {
+    "id": 1017316,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 187
+  },
+  {
+    "id": 1017336,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 187
+  },
+  {
+    "id": 1017474,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 187
+  },
+  {
+    "id": 1017102,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 188
+  },
+  {
+    "id": 1010997,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 188
+  },
+  {
+    "id": 1011195,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 188
+  },
+  {
+    "id": 1017300,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 189
+  },
+  {
+    "id": 1009396,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 189
+  },
+  {
+    "id": 1010999,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 189
+  },
+  {
+    "id": 1011065,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 190
+  },
+  {
+    "id": 1009296,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 190
+  },
+  {
+    "id": 1017110,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 190
+  },
+  {
+    "id": 1011143,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 191
+  },
+  {
+    "id": 1014987,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 191
+  },
+  {
+    "id": 1010333,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 191
+  },
+  {
+    "id": 1009377,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 192
+  },
+  {
+    "id": 1011384,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 192
+  },
+  {
+    "id": 1011201,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 192
+  },
+  {
+    "id": 1017324,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 193
+  },
+  {
+    "id": 1011380,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 193
+  },
+  {
+    "id": 1011248,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 193
+  },
+  {
+    "id": 1009556,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 194
+  },
+  {
+    "id": 1017329,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 194
+  },
+  {
+    "id": 1010720,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 194
+  },
+  {
+    "id": 1014982,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 195
+  },
+  {
+    "id": 1011374,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 195
+  },
+  {
+    "id": 1009326,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 195
+  },
+  {
+    "id": 1011292,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 196
+  },
+  {
+    "id": 1009331,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 196
+  },
+  {
+    "id": 1010709,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 196
+  },
+  {
+    "id": 1011185,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 197
+  },
+  {
+    "id": 1011069,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 197
+  },
+  {
+    "id": 1009339,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 197
+  },
+  {
+    "id": 1017311,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 198
+  },
+  {
+    "id": 1017108,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 198
+  },
+  {
+    "id": 1011274,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 198
+  },
+  {
+    "id": 1010839,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 199
+  },
+  {
+    "id": 1011383,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 199
+  },
+  {
+    "id": 1009350,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 199
+  },
+  {
+    "id": 1009557,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 200
+  },
+  {
+    "id": 1017333,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 200
+  },
+  {
+    "id": 1017303,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 200
+  },
+  {
+    "id": 1010721,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 201
+  },
+  {
+    "id": 1017107,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 201
+  },
+  {
+    "id": 1011415,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 201
+  },
+  {
+    "id": 1017475,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 202
+  },
+  {
+    "id": 1011273,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 202
+  },
+  {
+    "id": 1011089,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 202
+  },
+  {
+    "id": 1011146,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 203
+  },
+  {
+    "id": 1017301,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 203
+  },
+  {
+    "id": 1011379,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 203
+  },
+  {
+    "id": 1016839,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 204
+  },
+  {
+    "id": 1017320,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 204
+  },
+  {
+    "id": 1017294,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 204
+  },
+  {
+    "id": 1017310,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 205
+  },
+  {
+    "id": 1017326,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 205
+  },
+  {
+    "id": 1017104,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 205
+  },
+  {
+    "id": 1009371,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 206
+  },
+  {
+    "id": 1010844,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 206
+  },
+  {
+    "id": 1010736,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 206
+  },
+  {
+    "id": 1011344,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 207
+  },
+  {
+    "id": 1009604,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 207
+  },
+  {
+    "id": 1009375,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 207
+  },
+  {
+    "id": 1011171,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 208
+  },
+  {
+    "id": 1009500,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 208
+  },
+  {
+    "id": 1010938,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 208
+  },
+  {
+    "id": 1010772,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 209
+  },
+  {
+    "id": 1014983,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 209
+  },
+  {
+    "id": 1009386,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 209
+  },
+  {
+    "id": 1011308,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 210
+  },
+  {
+    "id": 1017476,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 210
+  },
+  {
+    "id": 1015017,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 210
+  },
+  {
+    "id": 1011178,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1011058,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1014977,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1014976,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1009394,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1009395,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1009166,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1011186,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210
+  },
+  {
+    "id": 1010340,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 211
+  },
+  {
+    "id": 1014988,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 212
+  },
+  {
+    "id": 1017299,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 213
+  },
+  {
+    "id": 1014980,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 214
+  },
+  {
+    "id": 1011283,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 215
+  },
+  {
+    "id": 1009409,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 216
+  },
+  {
+    "id": 1010751,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 217
+  },
+  {
+    "id": 1011200,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 218
+  },
+  {
+    "id": 1017321,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 219
+  },
+  {
+    "id": 1009314,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 220
+  },
+  {
+    "id": 1011135,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 221
+  },
+  {
+    "id": 1017477,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 222
+  },
+  {
+    "id": 1011085,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 223
+  },
+  {
+    "id": 1011229,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 224
+  },
+  {
+    "id": 1015018,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 225
+  },
+  {
+    "id": 1011173,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 226
+  },
+  {
+    "id": 1011263,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 227
+  },
+  {
+    "id": 1010877,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 228
+  },
+  {
+    "id": 1009677,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 229
+  },
+  {
+    "id": 1010793,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 230
+  },
+  {
+    "id": 1009441,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 231
+  },
+  {
+    "id": 1009443,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 232
+  },
+  {
+    "id": 1011340,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 233
+  },
+  {
+    "id": 1009444,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 234
+  },
+  {
+    "id": 1010891,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 235
+  },
+  {
+    "id": 1011192,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 236
+  },
+  {
+    "id": 1017318,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 237
+  },
+  {
+    "id": 1010948,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 238
+  },
+  {
+    "id": 1009450,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 239
+  },
+  {
+    "id": 1009458,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 240
+  },
+  {
+    "id": 1014984,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 241
+  },
+  {
+    "id": 1009461,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 242
+  },
+  {
+    "id": 1011372,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 243
+  },
+  {
+    "id": 1010951,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 244
+  },
+  {
+    "id": 1014978,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 245
+  },
+  {
+    "id": 1011302,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 246
+  },
+  {
+    "id": 1010831,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 247
+  },
+  {
+    "id": 1010815,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 248
+  },
+  {
+    "id": 1017298,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 249
+  },
+  {
+    "id": 1011282,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 250
+  },
+  {
+    "id": 1010063,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 251
+  },
+  {
+    "id": 1016837,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 252
+  },
+  {
+    "id": 1011255,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 253
+  },
+  {
+    "id": 1010332,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 254
+  },
+  {
+    "id": 1011351,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 255
+  },
+  {
+    "id": 1016840,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 256
+  },
+  {
+    "id": 1014989,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 257
+  },
+  {
+    "id": 1010750,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 258
+  },
+  {
+    "id": 1011153,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 259
+  },
+  {
+    "id": 1011378,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 260
+  },
+  {
+    "id": 1010960,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 261
+  },
+  {
+    "id": 1010961,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 262
+  },
+  {
+    "id": 1010865,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 263
+  },
+  {
+    "id": 1011165,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 264
+  },
+  {
+    "id": 1017306,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 265
+  },
+  {
+    "id": 1011191,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 266
+  },
+  {
+    "id": 1011280,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 267
+  },
+  {
+    "id": 1009527,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 268
+  },
+  {
+    "id": 1010838,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 269
+  },
+  {
+    "id": 1011249,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 270
+  },
+  {
+    "id": 1011238,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 271
+  },
+  {
+    "id": 1010965,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 272
+  },
+  {
+    "id": 1011401,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 273
+  },
+  {
+    "id": 1015006,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 274
+  },
+  {
+    "id": 1010792,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 275
+  },
+  {
+    "id": 1009235,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 276
+  },
+  {
+    "id": 1017314,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 277
+  },
+  {
+    "id": 1017319,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 278
+  },
+  {
+    "id": 1017478,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 279
+  },
+  {
+    "id": 1009595,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 280
+  },
+  {
+    "id": 1009551,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 281
+  },
+  {
+    "id": 1009559,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 282
+  },
+  {
+    "id": 1010972,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 283
+  },
+  {
+    "id": 1017308,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 284
+  },
+  {
+    "id": 1014979,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 285
+  },
+  {
+    "id": 1017331,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 286
+  },
+  {
+    "id": 1015035,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 287
+  },
+  {
+    "id": 1011168,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 288
+  },
+  {
+    "id": 1011381,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 289
+  },
+  {
+    "id": 1010856,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 290
+  },
+  {
+    "id": 1010339,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 291
+  },
+  {
+    "id": 1014975,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 292
+  },
+  {
+    "id": 1010834,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 293
+  },
+  {
+    "id": 1010845,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 294
+  },
+  {
+    "id": 1009607,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 295
+  },
+  {
+    "id": 1011366,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 296
+  },
+  {
+    "id": 1010727,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 297
+  },
+  {
+    "id": 1012200,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 298
+  },
+  {
+    "id": 1017332,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 299
+  },
+  {
+    "id": 1017305,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 300
+  },
+  {
+    "id": 1011377,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 301
+  },
+  {
+    "id": 1011158,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 302
+  },
+  {
+    "id": 1011180,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 303
+  },
+  {
+    "id": 1009617,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 304
+  },
+  {
+    "id": 1009622,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 305
+  },
+  {
+    "id": 1009615,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 306
+  },
+  {
+    "id": 1010327,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 307
+  },
+  {
+    "id": 1017309,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 308
+  },
+  {
+    "id": 1011225,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 309
+  },
+  {
+    "id": 1011172,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 310
+  },
+  {
+    "id": 1011115,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 311
+  },
+  {
+    "id": 1013504,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 312
+  },
+  {
+    "id": 1011000,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 313
+  },
+  {
+    "id": 1011083,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 314
+  },
+  {
+    "id": 1009654,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 315
+  },
+  {
+    "id": 1010714,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 316
+  },
+  {
+    "id": 1010728,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 317
+  },
+  {
+    "id": 1009655,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 318
+  },
+  {
+    "id": 1014986,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 319
+  },
+  {
+    "id": 1017103,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 320
+  },
+  {
+    "id": 1011215,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 321
+  },
+  {
+    "id": 1009656,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 322
+  },
+  {
+    "id": 1011110,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 323
+  },
+  {
+    "id": 1009658,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 324
+  },
+  {
+    "id": 1009659,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 325
+  },
+  {
+    "id": 1017313,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 326
+  },
+  {
+    "id": 1017106,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 327
+  },
+  {
+    "id": 1017315,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 328
+  },
+  {
+    "id": 1017328,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 329
+  },
+  {
+    "id": 1017302,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 330
+  },
+  {
+    "id": 1010857,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 331
+  },
+  {
+    "id": 1011166,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 332
+  },
+  {
+    "id": 1009671,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 333
+  },
+  {
+    "id": 1010988,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 334
+  },
+  {
+    "id": 1010986,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 335
+  },
+  {
+    "id": 1011182,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 336
+  },
+  {
+    "id": 1010989,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 337
+  },
+  {
+    "id": 1011316,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 338
+  },
+  {
+    "id": 1010872,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 339
+  },
+  {
+    "id": 1010666,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 340
+  },
+  {
+    "id": 1011267,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 341
+  },
+  {
+    "id": 1009700,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 342
+  },
+  {
+    "id": 1017322,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 343
+  },
+  {
+    "id": 1017304,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 344
+  },
+  {
+    "id": 1009704,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 345
+  },
+  {
+    "id": 1010742,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 346
+  },
+  {
+    "id": 1010342,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 347
+  },
+  {
+    "id": 1009712,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 348
+  },
+  {
+    "id": 1016838,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 349
+  },
+  {
+    "id": 1010680,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 350
+  },
+  {
+    "id": 1011290,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 351
+  },
+  {
+    "id": 1010729,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 352
+  },
+  {
+    "id": 1017297,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 353
+  },
+  {
+    "id": 1017325,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 354
+  },
+  {
+    "id": 1017479,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 355
+  },
+  {
+    "id": 1010804,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 356
+  },
+  {
+    "id": 1010875,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 357
+  },
+  {
+    "id": 1009732,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 358
+  },
+  {
+    "id": 1011163,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 359
+  },
+  {
+    "id": 1009739,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 360
+  }
+]

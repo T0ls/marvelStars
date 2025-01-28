@@ -1,0 +1,10950 @@
+[
+  {
+    "id": 1009610,
+    "npt": 4480,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300000
+  },
+  {
+    "id": 1009726,
+    "npt": 4077,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300001
+  },
+  {
+    "id": 1009368,
+    "npt": 2738,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300002
+  },
+  {
+    "id": 1009718,
+    "npt": 2730,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300003
+  },
+  {
+    "id": 1009220,
+    "npt": 2529,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300004
+  },
+  {
+    "id": 1009165,
+    "npt": 2261,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300005
+  },
+  {
+    "id": 1009664,
+    "npt": 1900,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300006
+  },
+  {
+    "id": 1009351,
+    "npt": 1796,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300007
+  },
+  {
+    "id": 1009299,
+    "npt": 1543,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300008
+  },
+  {
+    "id": 1009262,
+    "npt": 1273,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300009
+  },
+  {
+    "id": 1009356,
+    "npt": 1202,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300010
+  },
+  {
+    "id": 1009257,
+    "npt": 997,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300011
+  },
+  {
+    "id": 1009662,
+    "npt": 971,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300012
+  },
+  {
+    "id": 1009282,
+    "npt": 958,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300013
+  },
+  {
+    "id": 1009268,
+    "npt": 937,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300014
+  },
+  {
+    "id": 1009629,
+    "npt": 915,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300015
+  },
+  {
+    "id": 1009175,
+    "npt": 835,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300016
+  },
+  {
+    "id": 1009515,
+    "npt": 763,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300017
+  },
+  {
+    "id": 1009187,
+    "npt": 762,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300018
+  },
+  {
+    "id": 1009366,
+    "npt": 740,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300019
+  },
+  {
+    "id": 1009243,
+    "npt": 708,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300020
+  },
+  {
+    "id": 1009338,
+    "npt": 680,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300021
+  },
+  {
+    "id": 1009546,
+    "npt": 661,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300022
+  },
+  {
+    "id": 1009472,
+    "npt": 650,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300023
+  },
+  {
+    "id": 1010338,
+    "npt": 640,
+    "rarity": "common",
+    "priceInitial": 20,
+    "cardId": 300024
+  },
+  {
+    "id": 1009189,
+    "npt": 634,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300025
+  },
+  {
+    "id": 1009362,
+    "npt": 598,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300026
+  },
+  {
+    "id": 1009459,
+    "npt": 597,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300027
+  },
+  {
+    "id": 1010791,
+    "npt": 591,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300028
+  },
+  {
+    "id": 1009562,
+    "npt": 584,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300029
+  },
+  {
+    "id": 1009471,
+    "npt": 580,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300030
+  },
+  {
+    "id": 1009697,
+    "npt": 579,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300031
+  },
+  {
+    "id": 1009592,
+    "npt": 570,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300032
+  },
+  {
+    "id": 1009159,
+    "npt": 563,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300033
+  },
+  {
+    "id": 1009583,
+    "npt": 550,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300034
+  },
+  {
+    "id": 1009313,
+    "npt": 527,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300035
+  },
+  {
+    "id": 1009281,
+    "npt": 496,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300036
+  },
+  {
+    "id": 1009407,
+    "npt": 496,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300037
+  },
+  {
+    "id": 1009417,
+    "npt": 491,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300038
+  },
+  {
+    "id": 1009512,
+    "npt": 459,
+    "rarity": "common",
+    "priceInitial": 21,
+    "cardId": 300039
+  },
+  {
+    "id": 1009214,
+    "npt": 458,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300040
+  },
+  {
+    "id": 1016181,
+    "npt": 450,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300041
+  },
+  {
+    "id": 1009310,
+    "npt": 447,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300042
+  },
+  {
+    "id": 1009708,
+    "npt": 445,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300043
+  },
+  {
+    "id": 1009504,
+    "npt": 437,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300044
+  },
+  {
+    "id": 1009707,
+    "npt": 434,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300045
+  },
+  {
+    "id": 1009367,
+    "npt": 428,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300046
+  },
+  {
+    "id": 1009215,
+    "npt": 419,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300047
+  },
+  {
+    "id": 1009452,
+    "npt": 409,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300048
+  },
+  {
+    "id": 1011299,
+    "npt": 398,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300049
+  },
+  {
+    "id": 1009524,
+    "npt": 387,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300050
+  },
+  {
+    "id": 1009508,
+    "npt": 377,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300051
+  },
+  {
+    "id": 1009724,
+    "npt": 369,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300052
+  },
+  {
+    "id": 1009466,
+    "npt": 368,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300053
+  },
+  {
+    "id": 1009337,
+    "npt": 361,
+    "rarity": "common",
+    "priceInitial": 22,
+    "cardId": 300054
+  },
+  {
+    "id": 1009554,
+    "npt": 347,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300055
+  },
+  {
+    "id": 1009608,
+    "npt": 341,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300056
+  },
+  {
+    "id": 1009318,
+    "npt": 332,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300057
+  },
+  {
+    "id": 1009182,
+    "npt": 320,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300058
+  },
+  {
+    "id": 1009343,
+    "npt": 308,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300059
+  },
+  {
+    "id": 1011336,
+    "npt": 307,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300060
+  },
+  {
+    "id": 1009219,
+    "npt": 300,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300061
+  },
+  {
+    "id": 1009381,
+    "npt": 297,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300062
+  },
+  {
+    "id": 1009652,
+    "npt": 297,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300063
+  },
+  {
+    "id": 1010360,
+    "npt": 293,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300064
+  },
+  {
+    "id": 1009277,
+    "npt": 291,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300065
+  },
+  {
+    "id": 1017577,
+    "npt": 289,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300066
+  },
+  {
+    "id": 1009722,
+    "npt": 286,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300067
+  },
+  {
+    "id": 1009372,
+    "npt": 284,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300068
+  },
+  {
+    "id": 1009389,
+    "npt": 284,
+    "rarity": "common",
+    "priceInitial": 23,
+    "cardId": 300069
+  },
+  {
+    "id": 1009499,
+    "npt": 284,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300070
+  },
+  {
+    "id": 1009577,
+    "npt": 271,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300071
+  },
+  {
+    "id": 1009719,
+    "npt": 269,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300072
+  },
+  {
+    "id": 1011010,
+    "npt": 264,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300073
+  },
+  {
+    "id": 1009365,
+    "npt": 256,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300074
+  },
+  {
+    "id": 1009288,
+    "npt": 251,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300075
+  },
+  {
+    "id": 1009185,
+    "npt": 247,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300076
+  },
+  {
+    "id": 1009312,
+    "npt": 244,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300077
+  },
+  {
+    "id": 1011490,
+    "npt": 243,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300078
+  },
+  {
+    "id": 1009327,
+    "npt": 243,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300079
+  },
+  {
+    "id": 1010787,
+    "npt": 239,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300080
+  },
+  {
+    "id": 1009465,
+    "npt": 230,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300081
+  },
+  {
+    "id": 1010740,
+    "npt": 229,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300082
+  },
+  {
+    "id": 1009267,
+    "npt": 226,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300083
+  },
+  {
+    "id": 1010771,
+    "npt": 224,
+    "rarity": "common",
+    "priceInitial": 24,
+    "cardId": 300084
+  },
+  {
+    "id": 1009480,
+    "npt": 224,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300085
+  },
+  {
+    "id": 1010370,
+    "npt": 221,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300086
+  },
+  {
+    "id": 1009705,
+    "npt": 221,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300087
+  },
+  {
+    "id": 1010738,
+    "npt": 217,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300088
+  },
+  {
+    "id": 1011023,
+    "npt": 215,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300089
+  },
+  {
+    "id": 1009382,
+    "npt": 214,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300090
+  },
+  {
+    "id": 1009325,
+    "npt": 210,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300091
+  },
+  {
+    "id": 1009638,
+    "npt": 210,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300092
+  },
+  {
+    "id": 1009297,
+    "npt": 208,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300093
+  },
+  {
+    "id": 1009379,
+    "npt": 204,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300094
+  },
+  {
+    "id": 1010354,
+    "npt": 202,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300095
+  },
+  {
+    "id": 1009224,
+    "npt": 201,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300096
+  },
+  {
+    "id": 1009609,
+    "npt": 200,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300097
+  },
+  {
+    "id": 1009491,
+    "npt": 199,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300098
+  },
+  {
+    "id": 1009477,
+    "npt": 197,
+    "rarity": "common",
+    "priceInitial": 25,
+    "cardId": 300099
+  },
+  {
+    "id": 1010682,
+    "npt": 193,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300100
+  },
+  {
+    "id": 1011109,
+    "npt": 190,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300101
+  },
+  {
+    "id": 1009168,
+    "npt": 189,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300102
+  },
+  {
+    "id": 1009276,
+    "npt": 186,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300103
+  },
+  {
+    "id": 1009223,
+    "npt": 181,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300104
+  },
+  {
+    "id": 1009227,
+    "npt": 180,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300105
+  },
+  {
+    "id": 1009535,
+    "npt": 179,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300106
+  },
+  {
+    "id": 1009539,
+    "npt": 178,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300107
+  },
+  {
+    "id": 1009552,
+    "npt": 177,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300108
+  },
+  {
+    "id": 1009378,
+    "npt": 173,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300109
+  },
+  {
+    "id": 1009588,
+    "npt": 173,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300110
+  },
+  {
+    "id": 1009490,
+    "npt": 171,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300111
+  },
+  {
+    "id": 1009438,
+    "npt": 168,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300112
+  },
+  {
+    "id": 1011081,
+    "npt": 164,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300113
+  },
+  {
+    "id": 1009184,
+    "npt": 163,
+    "rarity": "common",
+    "priceInitial": 26,
+    "cardId": 300114
+  },
+  {
+    "id": 1017603,
+    "npt": 163,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300115
+  },
+  {
+    "id": 1017810,
+    "npt": 160,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300116
+  },
+  {
+    "id": 1009309,
+    "npt": 159,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300117
+  },
+  {
+    "id": 1009420,
+    "npt": 159,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300118
+  },
+  {
+    "id": 1009596,
+    "npt": 156,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300119
+  },
+  {
+    "id": 1009599,
+    "npt": 156,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300120
+  },
+  {
+    "id": 1009384,
+    "npt": 155,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300121
+  },
+  {
+    "id": 1011001,
+    "npt": 152,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300122
+  },
+  {
+    "id": 1009359,
+    "npt": 151,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300123
+  },
+  {
+    "id": 1011227,
+    "npt": 150,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300124
+  },
+  {
+    "id": 1009191,
+    "npt": 149,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300125
+  },
+  {
+    "id": 1009294,
+    "npt": 146,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300126
+  },
+  {
+    "id": 1010744,
+    "npt": 146,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300127
+  },
+  {
+    "id": 1009670,
+    "npt": 146,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300128
+  },
+  {
+    "id": 1010770,
+    "npt": 142,
+    "rarity": "common",
+    "priceInitial": 27,
+    "cardId": 300129
+  },
+  {
+    "id": 1010747,
+    "npt": 141,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300130
+  },
+  {
+    "id": 1010801,
+    "npt": 138,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300131
+  },
+  {
+    "id": 1009580,
+    "npt": 137,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300132
+  },
+  {
+    "id": 1009717,
+    "npt": 137,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300133
+  },
+  {
+    "id": 1009258,
+    "npt": 135,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300134
+  },
+  {
+    "id": 1009415,
+    "npt": 135,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300135
+  },
+  {
+    "id": 1010852,
+    "npt": 135,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300136
+  },
+  {
+    "id": 1010803,
+    "npt": 134,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300137
+  },
+  {
+    "id": 1009156,
+    "npt": 133,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300138
+  },
+  {
+    "id": 1009239,
+    "npt": 133,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300139
+  },
+  {
+    "id": 1009212,
+    "npt": 132,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300140
+  },
+  {
+    "id": 1009241,
+    "npt": 131,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300141
+  },
+  {
+    "id": 1009447,
+    "npt": 129,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300142
+  },
+  {
+    "id": 1009663,
+    "npt": 128,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300143
+  },
+  {
+    "id": 1009167,
+    "npt": 127,
+    "rarity": "common",
+    "priceInitial": 28,
+    "cardId": 300144
+  },
+  {
+    "id": 1009228,
+    "npt": 127,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300145
+  },
+  {
+    "id": 1010860,
+    "npt": 127,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300146
+  },
+  {
+    "id": 1009306,
+    "npt": 126,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300147
+  },
+  {
+    "id": 1010351,
+    "npt": 125,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300148
+  },
+  {
+    "id": 1010892,
+    "npt": 125,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300149
+  },
+  {
+    "id": 1009255,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300150
+  },
+  {
+    "id": 1010677,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300151
+  },
+  {
+    "id": 1009440,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300152
+  },
+  {
+    "id": 1009558,
+    "npt": 124,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300153
+  },
+  {
+    "id": 1009542,
+    "npt": 119,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300154
+  },
+  {
+    "id": 1009685,
+    "npt": 119,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300155
+  },
+  {
+    "id": 1009153,
+    "npt": 117,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300156
+  },
+  {
+    "id": 1009393,
+    "npt": 117,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300157
+  },
+  {
+    "id": 1010808,
+    "npt": 116,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300158
+  },
+  {
+    "id": 1017078,
+    "npt": 116,
+    "rarity": "common",
+    "priceInitial": 29,
+    "cardId": 300159
+  },
+  {
+    "id": 1009571,
+    "npt": 115,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300160
+  },
+  {
+    "id": 1010373,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300161
+  },
+  {
+    "id": 1009402,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300162
+  },
+  {
+    "id": 1010683,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300163
+  },
+  {
+    "id": 1010733,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300164
+  },
+  {
+    "id": 1009648,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300165
+  },
+  {
+    "id": 1017834,
+    "npt": 114,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300166
+  },
+  {
+    "id": 1009523,
+    "npt": 113,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300167
+  },
+  {
+    "id": 1009725,
+    "npt": 113,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300168
+  },
+  {
+    "id": 1009275,
+    "npt": 112,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300169
+  },
+  {
+    "id": 1011335,
+    "npt": 111,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300170
+  },
+  {
+    "id": 1009454,
+    "npt": 111,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300171
+  },
+  {
+    "id": 1011428,
+    "npt": 109,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300172
+  },
+  {
+    "id": 1017814,
+    "npt": 109,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300173
+  },
+  {
+    "id": 1009476,
+    "npt": 109,
+    "rarity": "common",
+    "priceInitial": 30,
+    "cardId": 300174
+  },
+  {
+    "id": 1009186,
+    "npt": 107,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300175
+  },
+  {
+    "id": 1011072,
+    "npt": 107,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300176
+  },
+  {
+    "id": 1009720,
+    "npt": 107,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300177
+  },
+  {
+    "id": 1009385,
+    "npt": 106,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300178
+  },
+  {
+    "id": 1009391,
+    "npt": 106,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300179
+  },
+  {
+    "id": 1010890,
+    "npt": 105,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300180
+  },
+  {
+    "id": 1009148,
+    "npt": 104,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300181
+  },
+  {
+    "id": 1009699,
+    "npt": 104,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300182
+  },
+  {
+    "id": 1017583,
+    "npt": 103,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300183
+  },
+  {
+    "id": 1011285,
+    "npt": 103,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300184
+  },
+  {
+    "id": 1009399,
+    "npt": 103,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300185
+  },
+  {
+    "id": 1011013,
+    "npt": 101,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300186
+  },
+  {
+    "id": 1010925,
+    "npt": 101,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300187
+  },
+  {
+    "id": 1011456,
+    "npt": 100,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300188
+  },
+  {
+    "id": 1010807,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 31,
+    "cardId": 300189
+  },
+  {
+    "id": 1009413,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300190
+  },
+  {
+    "id": 1010778,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300191
+  },
+  {
+    "id": 1011360,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300192
+  },
+  {
+    "id": 1011006,
+    "npt": 99,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300193
+  },
+  {
+    "id": 1009406,
+    "npt": 98,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300194
+  },
+  {
+    "id": 1009430,
+    "npt": 98,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300195
+  },
+  {
+    "id": 1009486,
+    "npt": 97,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300196
+  },
+  {
+    "id": 1014873,
+    "npt": 97,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300197
+  },
+  {
+    "id": 1009287,
+    "npt": 96,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300198
+  },
+  {
+    "id": 1017831,
+    "npt": 96,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300199
+  },
+  {
+    "id": 1009560,
+    "npt": 96,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300200
+  },
+  {
+    "id": 1010329,
+    "npt": 95,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300201
+  },
+  {
+    "id": 1009404,
+    "npt": 95,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300202
+  },
+  {
+    "id": 1010765,
+    "npt": 95,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300203
+  },
+  {
+    "id": 1011024,
+    "npt": 94,
+    "rarity": "common",
+    "priceInitial": 32,
+    "cardId": 300204
+  },
+  {
+    "id": 1010805,
+    "npt": 94,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300205
+  },
+  {
+    "id": 1009425,
+    "npt": 94,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300206
+  },
+  {
+    "id": 1009464,
+    "npt": 93,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300207
+  },
+  {
+    "id": 1009733,
+    "npt": 92,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300208
+  },
+  {
+    "id": 1009470,
+    "npt": 91,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300209
+  },
+  {
+    "id": 1011220,
+    "npt": 91,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300210
+  },
+  {
+    "id": 1009636,
+    "npt": 91,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300211
+  },
+  {
+    "id": 1011435,
+    "npt": 90,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300212
+  },
+  {
+    "id": 1009619,
+    "npt": 90,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300213
+  },
+  {
+    "id": 1009737,
+    "npt": 90,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300214
+  },
+  {
+    "id": 1010676,
+    "npt": 89,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300215
+  },
+  {
+    "id": 1009408,
+    "npt": 89,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300216
+  },
+  {
+    "id": 1017815,
+    "npt": 88,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300217
+  },
+  {
+    "id": 1009211,
+    "npt": 86,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300218
+  },
+  {
+    "id": 1017575,
+    "npt": 86,
+    "rarity": "common",
+    "priceInitial": 33,
+    "cardId": 300219
+  },
+  {
+    "id": 1011809,
+    "npt": 85,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300220
+  },
+  {
+    "id": 1011007,
+    "npt": 85,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300221
+  },
+  {
+    "id": 1009494,
+    "npt": 85,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300222
+  },
+  {
+    "id": 1009163,
+    "npt": 84,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300223
+  },
+  {
+    "id": 1010759,
+    "npt": 84,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300224
+  },
+  {
+    "id": 1009321,
+    "npt": 83,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300225
+  },
+  {
+    "id": 1011426,
+    "npt": 83,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300226
+  },
+  {
+    "id": 1010735,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300227
+  },
+  {
+    "id": 1017824,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300228
+  },
+  {
+    "id": 1011223,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300229
+  },
+  {
+    "id": 1009525,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300230
+  },
+  {
+    "id": 1009714,
+    "npt": 82,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300231
+  },
+  {
+    "id": 1009492,
+    "npt": 81,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300232
+  },
+  {
+    "id": 1009387,
+    "npt": 81,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300233
+  },
+  {
+    "id": 1010698,
+    "npt": 81,
+    "rarity": "common",
+    "priceInitial": 34,
+    "cardId": 300234
+  },
+  {
+    "id": 1009421,
+    "npt": 80,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300235
+  },
+  {
+    "id": 1009451,
+    "npt": 80,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300236
+  },
+  {
+    "id": 1009453,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300237
+  },
+  {
+    "id": 1011367,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300238
+  },
+  {
+    "id": 1009590,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300239
+  },
+  {
+    "id": 1009683,
+    "npt": 79,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300240
+  },
+  {
+    "id": 1009199,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300241
+  },
+  {
+    "id": 1010763,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300242
+  },
+  {
+    "id": 1010946,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300243
+  },
+  {
+    "id": 1011197,
+    "npt": 78,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300244
+  },
+  {
+    "id": 1009435,
+    "npt": 77,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300245
+  },
+  {
+    "id": 1010935,
+    "npt": 77,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300246
+  },
+  {
+    "id": 1009538,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300247
+  },
+  {
+    "id": 1010760,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300248
+  },
+  {
+    "id": 1009513,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 35,
+    "cardId": 300249
+  },
+  {
+    "id": 1009537,
+    "npt": 76,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300250
+  },
+  {
+    "id": 1010366,
+    "npt": 75,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300251
+  },
+  {
+    "id": 1010913,
+    "npt": 75,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300252
+  },
+  {
+    "id": 1009578,
+    "npt": 75,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300253
+  },
+  {
+    "id": 1010743,
+    "npt": 74,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300254
+  },
+  {
+    "id": 1009376,
+    "npt": 74,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300255
+  },
+  {
+    "id": 1009682,
+    "npt": 74,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300256
+  },
+  {
+    "id": 1009216,
+    "npt": 73,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300257
+  },
+  {
+    "id": 1011051,
+    "npt": 73,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300258
+  },
+  {
+    "id": 1009449,
+    "npt": 71,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300259
+  },
+  {
+    "id": 1009157,
+    "npt": 71,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300260
+  },
+  {
+    "id": 1009548,
+    "npt": 70,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300261
+  },
+  {
+    "id": 1011096,
+    "npt": 70,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300262
+  },
+  {
+    "id": 1009439,
+    "npt": 70,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300263
+  },
+  {
+    "id": 1011258,
+    "npt": 69,
+    "rarity": "common",
+    "priceInitial": 36,
+    "cardId": 300264
+  },
+  {
+    "id": 1009545,
+    "npt": 69,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300265
+  },
+  {
+    "id": 1010933,
+    "npt": 68,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300266
+  },
+  {
+    "id": 1009473,
+    "npt": 68,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300267
+  },
+  {
+    "id": 1009692,
+    "npt": 68,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300268
+  },
+  {
+    "id": 1010918,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300269
+  },
+  {
+    "id": 1009284,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300270
+  },
+  {
+    "id": 1009405,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300271
+  },
+  {
+    "id": 1009469,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300272
+  },
+  {
+    "id": 1009493,
+    "npt": 67,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300273
+  },
+  {
+    "id": 1009154,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300274
+  },
+  {
+    "id": 1009301,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300275
+  },
+  {
+    "id": 1009482,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300276
+  },
+  {
+    "id": 1014858,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300277
+  },
+  {
+    "id": 1010978,
+    "npt": 66,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300278
+  },
+  {
+    "id": 1009570,
+    "npt": 65,
+    "rarity": "common",
+    "priceInitial": 37,
+    "cardId": 300279
+  },
+  {
+    "id": 1011347,
+    "npt": 65,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300280
+  },
+  {
+    "id": 1010335,
+    "npt": 65,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300281
+  },
+  {
+    "id": 1010784,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300282
+  },
+  {
+    "id": 1010917,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300283
+  },
+  {
+    "id": 1009324,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300284
+  },
+  {
+    "id": 1011386,
+    "npt": 64,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300285
+  },
+  {
+    "id": 1009197,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300286
+  },
+  {
+    "id": 1011482,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300287
+  },
+  {
+    "id": 1009416,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300288
+  },
+  {
+    "id": 1009561,
+    "npt": 63,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300289
+  },
+  {
+    "id": 1017838,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300290
+  },
+  {
+    "id": 1009205,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300291
+  },
+  {
+    "id": 1011026,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300292
+  },
+  {
+    "id": 1009641,
+    "npt": 62,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300293
+  },
+  {
+    "id": 1009496,
+    "npt": 61,
+    "rarity": "common",
+    "priceInitial": 38,
+    "cardId": 300294
+  },
+  {
+    "id": 1010719,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300295
+  },
+  {
+    "id": 1009320,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300296
+  },
+  {
+    "id": 1011056,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300297
+  },
+  {
+    "id": 1011323,
+    "npt": 60,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300298
+  },
+  {
+    "id": 1009390,
+    "npt": 59,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300299
+  },
+  {
+    "id": 1010349,
+    "npt": 59,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300300
+  },
+  {
+    "id": 1009146,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300301
+  },
+  {
+    "id": 1011020,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300302
+  },
+  {
+    "id": 1010932,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300303
+  },
+  {
+    "id": 1011068,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300304
+  },
+  {
+    "id": 1009522,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300305
+  },
+  {
+    "id": 1011376,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300306
+  },
+  {
+    "id": 1010344,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300307
+  },
+  {
+    "id": 1017576,
+    "npt": 58,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300308
+  },
+  {
+    "id": 1009233,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 39,
+    "cardId": 300309
+  },
+  {
+    "id": 1017844,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300310
+  },
+  {
+    "id": 1010345,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300311
+  },
+  {
+    "id": 1011542,
+    "npt": 57,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300312
+  },
+  {
+    "id": 1009208,
+    "npt": 56,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300313
+  },
+  {
+    "id": 1010898,
+    "npt": 56,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300314
+  },
+  {
+    "id": 1009675,
+    "npt": 56,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300315
+  },
+  {
+    "id": 1010782,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300316
+  },
+  {
+    "id": 1009180,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300317
+  },
+  {
+    "id": 1009280,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300318
+  },
+  {
+    "id": 1009355,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300319
+  },
+  {
+    "id": 1011102,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300320
+  },
+  {
+    "id": 1009448,
+    "npt": 55,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300321
+  },
+  {
+    "id": 1009274,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300322
+  },
+  {
+    "id": 1010785,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300323
+  },
+  {
+    "id": 1010726,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 40,
+    "cardId": 300324
+  },
+  {
+    "id": 1011025,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300325
+  },
+  {
+    "id": 1010369,
+    "npt": 54,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300326
+  },
+  {
+    "id": 1009144,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300327
+  },
+  {
+    "id": 1010950,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300328
+  },
+  {
+    "id": 1011179,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300329
+  },
+  {
+    "id": 1009673,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300330
+  },
+  {
+    "id": 1009709,
+    "npt": 53,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300331
+  },
+  {
+    "id": 1009271,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300332
+  },
+  {
+    "id": 1010934,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300333
+  },
+  {
+    "id": 1011424,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300334
+  },
+  {
+    "id": 1009468,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300335
+  },
+  {
+    "id": 1010814,
+    "npt": 52,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300336
+  },
+  {
+    "id": 1009696,
+    "npt": 51,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300337
+  },
+  {
+    "id": 1010853,
+    "npt": 51,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300338
+  },
+  {
+    "id": 1011500,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 41,
+    "cardId": 300339
+  },
+  {
+    "id": 1010701,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300340
+  },
+  {
+    "id": 1009398,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300341
+  },
+  {
+    "id": 1009427,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300342
+  },
+  {
+    "id": 1010684,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300343
+  },
+  {
+    "id": 1010669,
+    "npt": 50,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300344
+  },
+  {
+    "id": 1011758,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300345
+  },
+  {
+    "id": 1010908,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300346
+  },
+  {
+    "id": 1009252,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300347
+  },
+  {
+    "id": 1009614,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300348
+  },
+  {
+    "id": 1009632,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300349
+  },
+  {
+    "id": 1010983,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300350
+  },
+  {
+    "id": 1009715,
+    "npt": 49,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300351
+  },
+  {
+    "id": 1009169,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300352
+  },
+  {
+    "id": 1009329,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300353
+  },
+  {
+    "id": 1009576,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 42,
+    "cardId": 300354
+  },
+  {
+    "id": 1009606,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300355
+  },
+  {
+    "id": 1009624,
+    "npt": 48,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300356
+  },
+  {
+    "id": 1009164,
+    "npt": 47,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300357
+  },
+  {
+    "id": 1010756,
+    "npt": 47,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300358
+  },
+  {
+    "id": 1010705,
+    "npt": 47,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300359
+  },
+  {
+    "id": 1009434,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300360
+  },
+  {
+    "id": 1011271,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300361
+  },
+  {
+    "id": 1009483,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300362
+  },
+  {
+    "id": 1009555,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300363
+  },
+  {
+    "id": 1010358,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300364
+  },
+  {
+    "id": 1010806,
+    "npt": 46,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300365
+  },
+  {
+    "id": 1011198,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300366
+  },
+  {
+    "id": 1010802,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300367
+  },
+  {
+    "id": 1010371,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300368
+  },
+  {
+    "id": 1009347,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 43,
+    "cardId": 300369
+  },
+  {
+    "id": 1011203,
+    "npt": 45,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300370
+  },
+  {
+    "id": 1009234,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300371
+  },
+  {
+    "id": 1011054,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300372
+  },
+  {
+    "id": 1010326,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300373
+  },
+  {
+    "id": 1010715,
+    "npt": 44,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300374
+  },
+  {
+    "id": 1009155,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300375
+  },
+  {
+    "id": 1009305,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300376
+  },
+  {
+    "id": 1011368,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300377
+  },
+  {
+    "id": 1010693,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300378
+  },
+  {
+    "id": 1009625,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300379
+  },
+  {
+    "id": 1010359,
+    "npt": 43,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300380
+  },
+  {
+    "id": 1011300,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300381
+  },
+  {
+    "id": 1011288,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300382
+  },
+  {
+    "id": 1011100,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300383
+  },
+  {
+    "id": 1009410,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 44,
+    "cardId": 300384
+  },
+  {
+    "id": 1009519,
+    "npt": 42,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300385
+  },
+  {
+    "id": 1010352,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300386
+  },
+  {
+    "id": 1011436,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300387
+  },
+  {
+    "id": 1009581,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300388
+  },
+  {
+    "id": 1010694,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300389
+  },
+  {
+    "id": 1011084,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300390
+  },
+  {
+    "id": 1009631,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300391
+  },
+  {
+    "id": 1010825,
+    "npt": 41,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300392
+  },
+  {
+    "id": 1011339,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300393
+  },
+  {
+    "id": 1009251,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300394
+  },
+  {
+    "id": 1009357,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300395
+  },
+  {
+    "id": 1011241,
+    "npt": 40,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300396
+  },
+  {
+    "id": 1015239,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300397
+  },
+  {
+    "id": 1017317,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300398
+  },
+  {
+    "id": 1009232,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 45,
+    "cardId": 300399
+  },
+  {
+    "id": 1012019,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300400
+  },
+  {
+    "id": 1009270,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300401
+  },
+  {
+    "id": 1009279,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300402
+  },
+  {
+    "id": 1009380,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300403
+  },
+  {
+    "id": 1014528,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300404
+  },
+  {
+    "id": 1009591,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300405
+  },
+  {
+    "id": 1010324,
+    "npt": 39,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300406
+  },
+  {
+    "id": 1017574,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300407
+  },
+  {
+    "id": 1009170,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300408
+  },
+  {
+    "id": 1009217,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300409
+  },
+  {
+    "id": 1011095,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300410
+  },
+  {
+    "id": 1017833,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300411
+  },
+  {
+    "id": 1009342,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300412
+  },
+  {
+    "id": 1011116,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300413
+  },
+  {
+    "id": 1010362,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 46,
+    "cardId": 300414
+  },
+  {
+    "id": 1011337,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300415
+  },
+  {
+    "id": 1009563,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300416
+  },
+  {
+    "id": 1009585,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300417
+  },
+  {
+    "id": 1011342,
+    "npt": 38,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300418
+  },
+  {
+    "id": 1009171,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300419
+  },
+  {
+    "id": 1009195,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300420
+  },
+  {
+    "id": 1009209,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300421
+  },
+  {
+    "id": 1009245,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300422
+  },
+  {
+    "id": 1017835,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300423
+  },
+  {
+    "id": 1009283,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300424
+  },
+  {
+    "id": 1010450,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300425
+  },
+  {
+    "id": 1010817,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300426
+  },
+  {
+    "id": 1009618,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300427
+  },
+  {
+    "id": 1009666,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300428
+  },
+  {
+    "id": 1009691,
+    "npt": 37,
+    "rarity": "common",
+    "priceInitial": 47,
+    "cardId": 300429
+  },
+  {
+    "id": 1010906,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300430
+  },
+  {
+    "id": 1009330,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300431
+  },
+  {
+    "id": 1009411,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300432
+  },
+  {
+    "id": 1009509,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300433
+  },
+  {
+    "id": 1010943,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300434
+  },
+  {
+    "id": 1009445,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300435
+  },
+  {
+    "id": 1010966,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300436
+  },
+  {
+    "id": 1009667,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300437
+  },
+  {
+    "id": 1011515,
+    "npt": 36,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300438
+  },
+  {
+    "id": 1011297,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300439
+  },
+  {
+    "id": 1009158,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300440
+  },
+  {
+    "id": 1017856,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300441
+  },
+  {
+    "id": 1010868,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300442
+  },
+  {
+    "id": 1010702,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300443
+  },
+  {
+    "id": 1009340,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 48,
+    "cardId": 300444
+  },
+  {
+    "id": 1009361,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300445
+  },
+  {
+    "id": 1011002,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300446
+  },
+  {
+    "id": 1010367,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300447
+  },
+  {
+    "id": 1009442,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300448
+  },
+  {
+    "id": 1010347,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300449
+  },
+  {
+    "id": 1011086,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300450
+  },
+  {
+    "id": 1009531,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300451
+  },
+  {
+    "id": 1011035,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300452
+  },
+  {
+    "id": 1011265,
+    "npt": 35,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300453
+  },
+  {
+    "id": 1010809,
+    "npt": 34,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300454
+  },
+  {
+    "id": 1009334,
+    "npt": 34,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300455
+  },
+  {
+    "id": 1011357,
+    "npt": 34,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300456
+  },
+  {
+    "id": 1009249,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300457
+  },
+  {
+    "id": 1009295,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300458
+  },
+  {
+    "id": 1009328,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 49,
+    "cardId": 300459
+  },
+  {
+    "id": 1011327,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300460
+  },
+  {
+    "id": 1009414,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300461
+  },
+  {
+    "id": 1010894,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300462
+  },
+  {
+    "id": 1010365,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300463
+  },
+  {
+    "id": 1009474,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300464
+  },
+  {
+    "id": 1011045,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300465
+  },
+  {
+    "id": 1011078,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300466
+  },
+  {
+    "id": 1009628,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300467
+  },
+  {
+    "id": 1009639,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300468
+  },
+  {
+    "id": 1011309,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300469
+  },
+  {
+    "id": 1010348,
+    "npt": 33,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300470
+  },
+  {
+    "id": 1009247,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300471
+  },
+  {
+    "id": 1009269,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300472
+  },
+  {
+    "id": 1013133,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300473
+  },
+  {
+    "id": 1010363,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 50,
+    "cardId": 300474
+  },
+  {
+    "id": 1010963,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300475
+  },
+  {
+    "id": 1011057,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300476
+  },
+  {
+    "id": 1010828,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300477
+  },
+  {
+    "id": 1009703,
+    "npt": 32,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300478
+  },
+  {
+    "id": 1011298,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300479
+  },
+  {
+    "id": 1009172,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300480
+  },
+  {
+    "id": 1009261,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300481
+  },
+  {
+    "id": 1009349,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300482
+  },
+  {
+    "id": 1009514,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300483
+  },
+  {
+    "id": 1011307,
+    "npt": 31,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300484
+  },
+  {
+    "id": 1009152,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300485
+  },
+  {
+    "id": 1009291,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300486
+  },
+  {
+    "id": 1009303,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300487
+  },
+  {
+    "id": 1011420,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300488
+  },
+  {
+    "id": 1011131,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 51,
+    "cardId": 300489
+  },
+  {
+    "id": 1010811,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300490
+  },
+  {
+    "id": 1009507,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300491
+  },
+  {
+    "id": 1009526,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300492
+  },
+  {
+    "id": 1009672,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300493
+  },
+  {
+    "id": 1009695,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300494
+  },
+  {
+    "id": 1011287,
+    "npt": 30,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300495
+  },
+  {
+    "id": 1017851,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300496
+  },
+  {
+    "id": 1009150,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300497
+  },
+  {
+    "id": 1010671,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300498
+  },
+  {
+    "id": 1011389,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300499
+  },
+  {
+    "id": 1009315,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300500
+  },
+  {
+    "id": 1009316,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300501
+  },
+  {
+    "id": 1009424,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300502
+  },
+  {
+    "id": 1009463,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300503
+  },
+  {
+    "id": 1010746,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 52,
+    "cardId": 300504
+  },
+  {
+    "id": 1009520,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300505
+  },
+  {
+    "id": 1010971,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300506
+  },
+  {
+    "id": 1010899,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300507
+  },
+  {
+    "id": 1011341,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300508
+  },
+  {
+    "id": 1009651,
+    "npt": 29,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300509
+  },
+  {
+    "id": 1011385,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300510
+  },
+  {
+    "id": 1009273,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300511
+  },
+  {
+    "id": 1011082,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300512
+  },
+  {
+    "id": 1009307,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300513
+  },
+  {
+    "id": 1010927,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300514
+  },
+  {
+    "id": 1010678,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300515
+  },
+  {
+    "id": 1011289,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300516
+  },
+  {
+    "id": 1010896,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300517
+  },
+  {
+    "id": 1011328,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300518
+  },
+  {
+    "id": 1011305,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 53,
+    "cardId": 300519
+  },
+  {
+    "id": 1011244,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300520
+  },
+  {
+    "id": 1011030,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300521
+  },
+  {
+    "id": 1010692,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300522
+  },
+  {
+    "id": 1009568,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300523
+  },
+  {
+    "id": 1009573,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300524
+  },
+  {
+    "id": 1009579,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300525
+  },
+  {
+    "id": 1010696,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300526
+  },
+  {
+    "id": 1009694,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300527
+  },
+  {
+    "id": 1010992,
+    "npt": 28,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300528
+  },
+  {
+    "id": 1017438,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300529
+  },
+  {
+    "id": 1010325,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300530
+  },
+  {
+    "id": 1011356,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300531
+  },
+  {
+    "id": 1014994,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300532
+  },
+  {
+    "id": 1011005,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300533
+  },
+  {
+    "id": 1009630,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 54,
+    "cardId": 300534
+  },
+  {
+    "id": 1010695,
+    "npt": 27,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300535
+  },
+  {
+    "id": 1011138,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300536
+  },
+  {
+    "id": 1010813,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300537
+  },
+  {
+    "id": 1009229,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300538
+  },
+  {
+    "id": 1011444,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300539
+  },
+  {
+    "id": 1009460,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300540
+  },
+  {
+    "id": 1011390,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300541
+  },
+  {
+    "id": 1011048,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300542
+  },
+  {
+    "id": 1017852,
+    "npt": 26,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300543
+  },
+  {
+    "id": 1011346,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300544
+  },
+  {
+    "id": 1011291,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300545
+  },
+  {
+    "id": 1009285,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300546
+  },
+  {
+    "id": 1009364,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300547
+  },
+  {
+    "id": 1010873,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300548
+  },
+  {
+    "id": 1009616,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 55,
+    "cardId": 300549
+  },
+  {
+    "id": 1009669,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300550
+  },
+  {
+    "id": 1011011,
+    "npt": 25,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300551
+  },
+  {
+    "id": 1011907,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300552
+  },
+  {
+    "id": 1011027,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300553
+  },
+  {
+    "id": 1009536,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300554
+  },
+  {
+    "id": 1009266,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300555
+  },
+  {
+    "id": 1011148,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300556
+  },
+  {
+    "id": 1009735,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300557
+  },
+  {
+    "id": 1011279,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300558
+  },
+  {
+    "id": 1009475,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300559
+  },
+  {
+    "id": 1010957,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300560
+  },
+  {
+    "id": 1010779,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300561
+  },
+  {
+    "id": 1010837,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300562
+  },
+  {
+    "id": 1011392,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300563
+  },
+  {
+    "id": 1012080,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 56,
+    "cardId": 300564
+  },
+  {
+    "id": 1010788,
+    "npt": 24,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300565
+  },
+  {
+    "id": 1012717,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300566
+  },
+  {
+    "id": 1009740,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300567
+  },
+  {
+    "id": 1011778,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300568
+  },
+  {
+    "id": 1010687,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300569
+  },
+  {
+    "id": 1009204,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300570
+  },
+  {
+    "id": 1011442,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300571
+  },
+  {
+    "id": 1009597,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300572
+  },
+  {
+    "id": 1011398,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300573
+  },
+  {
+    "id": 1010968,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300574
+  },
+  {
+    "id": 1009643,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300575
+  },
+  {
+    "id": 1009650,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300576
+  },
+  {
+    "id": 1009710,
+    "npt": 23,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300577
+  },
+  {
+    "id": 1010919,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300578
+  },
+  {
+    "id": 1009308,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 57,
+    "cardId": 300579
+  },
+  {
+    "id": 1011055,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300580
+  },
+  {
+    "id": 1009207,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300581
+  },
+  {
+    "id": 1011399,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300582
+  },
+  {
+    "id": 1009686,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300583
+  },
+  {
+    "id": 1009734,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300584
+  },
+  {
+    "id": 1009736,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300585
+  },
+  {
+    "id": 1010841,
+    "npt": 22,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300586
+  },
+  {
+    "id": 1009489,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300587
+  },
+  {
+    "id": 1009256,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300588
+  },
+  {
+    "id": 1009265,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300589
+  },
+  {
+    "id": 1010689,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300590
+  },
+  {
+    "id": 1012923,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300591
+  },
+  {
+    "id": 1009374,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300592
+  },
+  {
+    "id": 1010854,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300593
+  },
+  {
+    "id": 1009456,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 58,
+    "cardId": 300594
+  },
+  {
+    "id": 1009479,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300595
+  },
+  {
+    "id": 1011028,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300596
+  },
+  {
+    "id": 1009553,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300597
+  },
+  {
+    "id": 1010969,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300598
+  },
+  {
+    "id": 1010864,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300599
+  },
+  {
+    "id": 1010855,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300600
+  },
+  {
+    "id": 1011373,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300601
+  },
+  {
+    "id": 1012295,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300602
+  },
+  {
+    "id": 1016825,
+    "npt": 21,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300603
+  },
+  {
+    "id": 1009179,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300604
+  },
+  {
+    "id": 1011498,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300605
+  },
+  {
+    "id": 1011270,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300606
+  },
+  {
+    "id": 1010823,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300607
+  },
+  {
+    "id": 1011333,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300608
+  },
+  {
+    "id": 1011061,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 59,
+    "cardId": 300609
+  },
+  {
+    "id": 1010926,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300610
+  },
+  {
+    "id": 1010818,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300611
+  },
+  {
+    "id": 1010681,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300612
+  },
+  {
+    "id": 1009547,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300613
+  },
+  {
+    "id": 1011427,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300614
+  },
+  {
+    "id": 1009484,
+    "npt": 20,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300615
+  },
+  {
+    "id": 1011338,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300616
+  },
+  {
+    "id": 1009188,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300617
+  },
+  {
+    "id": 1010799,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300618
+  },
+  {
+    "id": 1009383,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300619
+  },
+  {
+    "id": 1010731,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300620
+  },
+  {
+    "id": 1010758,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300621
+  },
+  {
+    "id": 1009363,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300622
+  },
+  {
+    "id": 1011404,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300623
+  },
+  {
+    "id": 1010810,
+    "npt": 19,
+    "rarity": "common",
+    "priceInitial": 60,
+    "cardId": 300624
+  },
+  {
+    "id": 1010762,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300625
+  },
+  {
+    "id": 1011181,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300626
+  },
+  {
+    "id": 1010822,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300627
+  },
+  {
+    "id": 1010984,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300628
+  },
+  {
+    "id": 1009716,
+    "npt": 19,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300629
+  },
+  {
+    "id": 1011031,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300630
+  },
+  {
+    "id": 1010836,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300631
+  },
+  {
+    "id": 1010911,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300632
+  },
+  {
+    "id": 1011416,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300633
+  },
+  {
+    "id": 1011097,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300634
+  },
+  {
+    "id": 1009244,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300635
+  },
+  {
+    "id": 1009259,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300636
+  },
+  {
+    "id": 1009348,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300637
+  },
+  {
+    "id": 1009360,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300638
+  },
+  {
+    "id": 1010752,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300639
+  },
+  {
+    "id": 1011080,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300640
+  },
+  {
+    "id": 1010904,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300641
+  },
+  {
+    "id": 1010725,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300642
+  },
+  {
+    "id": 1014267,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 60,
+    "cardId": 300643
+  },
+  {
+    "id": 1009532,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300644
+  },
+  {
+    "id": 1011093,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300645
+  },
+  {
+    "id": 1009594,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300646
+  },
+  {
+    "id": 1010998,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300647
+  },
+  {
+    "id": 1011018,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300648
+  },
+  {
+    "id": 1014812,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300649
+  },
+  {
+    "id": 1011277,
+    "npt": 18,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300650
+  },
+  {
+    "id": 1009174,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300651
+  },
+  {
+    "id": 1011090,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 61,
+    "cardId": 300652
+  },
+  {
+    "id": 1011060,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300653
+  },
+  {
+    "id": 1011317,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300654
+  },
+  {
+    "id": 1010832,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300655
+  },
+  {
+    "id": 1009317,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300656
+  },
+  {
+    "id": 1010821,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300657
+  },
+  {
+    "id": 1010704,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300658
+  },
+  {
+    "id": 1011343,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300659
+  },
+  {
+    "id": 1009412,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300660
+  },
+  {
+    "id": 1013479,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 62,
+    "cardId": 300661
+  },
+  {
+    "id": 1010691,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300662
+  },
+  {
+    "id": 1011123,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300663
+  },
+  {
+    "id": 1017857,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300664
+  },
+  {
+    "id": 1010761,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300665
+  },
+  {
+    "id": 1009603,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300666
+  },
+  {
+    "id": 1010833,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300667
+  },
+  {
+    "id": 1010794,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300668
+  },
+  {
+    "id": 1009626,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300669
+  },
+  {
+    "id": 1009661,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 63,
+    "cardId": 300670
+  },
+  {
+    "id": 1009684,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300671
+  },
+  {
+    "id": 1010350,
+    "npt": 17,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300672
+  },
+  {
+    "id": 1010754,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300673
+  },
+  {
+    "id": 1010920,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300674
+  },
+  {
+    "id": 1011233,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300675
+  },
+  {
+    "id": 1012478,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300676
+  },
+  {
+    "id": 1012610,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300677
+  },
+  {
+    "id": 1010893,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300678
+  },
+  {
+    "id": 1011312,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 64,
+    "cardId": 300679
+  },
+  {
+    "id": 1014318,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300680
+  },
+  {
+    "id": 1014434,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300681
+  },
+  {
+    "id": 1010958,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300682
+  },
+  {
+    "id": 1009505,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300683
+  },
+  {
+    "id": 1009533,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300684
+  },
+  {
+    "id": 1010710,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300685
+  },
+  {
+    "id": 1010889,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300686
+  },
+  {
+    "id": 1015280,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300687
+  },
+  {
+    "id": 1010820,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 65,
+    "cardId": 300688
+  },
+  {
+    "id": 1011304,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300689
+  },
+  {
+    "id": 1011345,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300690
+  },
+  {
+    "id": 1009698,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300691
+  },
+  {
+    "id": 1017853,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300692
+  },
+  {
+    "id": 1010883,
+    "npt": 16,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300693
+  },
+  {
+    "id": 1011836,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300694
+  },
+  {
+    "id": 1011353,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300695
+  },
+  {
+    "id": 1011387,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300696
+  },
+  {
+    "id": 1010921,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 66,
+    "cardId": 300697
+  },
+  {
+    "id": 1010330,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300698
+  },
+  {
+    "id": 1009292,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300699
+  },
+  {
+    "id": 1009298,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300700
+  },
+  {
+    "id": 1012767,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300701
+  },
+  {
+    "id": 1011077,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300702
+  },
+  {
+    "id": 1011105,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300703
+  },
+  {
+    "id": 1013190,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300704
+  },
+  {
+    "id": 1009488,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300705
+  },
+  {
+    "id": 1011388,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 67,
+    "cardId": 300706
+  },
+  {
+    "id": 1010861,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300707
+  },
+  {
+    "id": 1009574,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300708
+  },
+  {
+    "id": 1016452,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300709
+  },
+  {
+    "id": 1011160,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300710
+  },
+  {
+    "id": 1011477,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300711
+  },
+  {
+    "id": 1009690,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300712
+  },
+  {
+    "id": 1010353,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300713
+  },
+  {
+    "id": 1011009,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300714
+  },
+  {
+    "id": 1010737,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 68,
+    "cardId": 300715
+  },
+  {
+    "id": 1009738,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300716
+  },
+  {
+    "id": 1010780,
+    "npt": 15,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300717
+  },
+  {
+    "id": 1010699,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300718
+  },
+  {
+    "id": 1009160,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300719
+  },
+  {
+    "id": 1009198,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300720
+  },
+  {
+    "id": 1011132,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300721
+  },
+  {
+    "id": 1009478,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300722
+  },
+  {
+    "id": 1012512,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300723
+  },
+  {
+    "id": 1010749,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 69,
+    "cardId": 300724
+  },
+  {
+    "id": 1011371,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300725
+  },
+  {
+    "id": 1010888,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300726
+  },
+  {
+    "id": 1011421,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300727
+  },
+  {
+    "id": 1009403,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300728
+  },
+  {
+    "id": 1017854,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300729
+  },
+  {
+    "id": 1014063,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300730
+  },
+  {
+    "id": 1009485,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300731
+  },
+  {
+    "id": 1014198,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300732
+  },
+  {
+    "id": 1009511,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 70,
+    "cardId": 300733
+  },
+  {
+    "id": 1009534,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300734
+  },
+  {
+    "id": 1009589,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300735
+  },
+  {
+    "id": 1010885,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300736
+  },
+  {
+    "id": 1009680,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300737
+  },
+  {
+    "id": 1009681,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300738
+  },
+  {
+    "id": 1011281,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300739
+  },
+  {
+    "id": 1011418,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300740
+  },
+  {
+    "id": 1010739,
+    "npt": 14,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300741
+  },
+  {
+    "id": 1010672,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 71,
+    "cardId": 300742
+  },
+  {
+    "id": 1014973,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300743
+  },
+  {
+    "id": 1009322,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300744
+  },
+  {
+    "id": 1011041,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300745
+  },
+  {
+    "id": 1009336,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300746
+  },
+  {
+    "id": 1010667,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300747
+  },
+  {
+    "id": 1011495,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300748
+  },
+  {
+    "id": 1011088,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300749
+  },
+  {
+    "id": 1010685,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300750
+  },
+  {
+    "id": 1010882,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 72,
+    "cardId": 300751
+  },
+  {
+    "id": 1009501,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300752
+  },
+  {
+    "id": 1009544,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300753
+  },
+  {
+    "id": 1010976,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300754
+  },
+  {
+    "id": 1010795,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300755
+  },
+  {
+    "id": 1011034,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300756
+  },
+  {
+    "id": 1011112,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300757
+  },
+  {
+    "id": 1009701,
+    "npt": 13,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300758
+  },
+  {
+    "id": 1011334,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300759
+  },
+  {
+    "id": 1009151,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 73,
+    "cardId": 300760
+  },
+  {
+    "id": 1009190,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300761
+  },
+  {
+    "id": 1009200,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300762
+  },
+  {
+    "id": 1009213,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300763
+  },
+  {
+    "id": 1011039,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300764
+  },
+  {
+    "id": 1011016,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300765
+  },
+  {
+    "id": 1011103,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300766
+  },
+  {
+    "id": 1012571,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300767
+  },
+  {
+    "id": 1012623,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300768
+  },
+  {
+    "id": 1014985,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 74,
+    "cardId": 300769
+  },
+  {
+    "id": 1010722,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300770
+  },
+  {
+    "id": 1011134,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300771
+  },
+  {
+    "id": 1010707,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300772
+  },
+  {
+    "id": 1010962,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300773
+  },
+  {
+    "id": 1011207,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300774
+  },
+  {
+    "id": 1009702,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300775
+  },
+  {
+    "id": 1009598,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300776
+  },
+  {
+    "id": 1009627,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300777
+  },
+  {
+    "id": 1010979,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 75,
+    "cardId": 300778
+  },
+  {
+    "id": 1011022,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300779
+  },
+  {
+    "id": 1011003,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300780
+  },
+  {
+    "id": 1009687,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300781
+  },
+  {
+    "id": 1017841,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300782
+  },
+  {
+    "id": 1011365,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300783
+  },
+  {
+    "id": 1009711,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300784
+  },
+  {
+    "id": 1011043,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300785
+  },
+  {
+    "id": 1010884,
+    "npt": 12,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300786
+  },
+  {
+    "id": 1011208,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 76,
+    "cardId": 300787
+  },
+  {
+    "id": 1011209,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300788
+  },
+  {
+    "id": 1009688,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300789
+  },
+  {
+    "id": 1011358,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300790
+  },
+  {
+    "id": 1010923,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300791
+  },
+  {
+    "id": 1011098,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300792
+  },
+  {
+    "id": 1011144,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300793
+  },
+  {
+    "id": 1011076,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300794
+  },
+  {
+    "id": 1010928,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300795
+  },
+  {
+    "id": 1010930,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 77,
+    "cardId": 300796
+  },
+  {
+    "id": 1009196,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300797
+  },
+  {
+    "id": 1011193,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300798
+  },
+  {
+    "id": 1010783,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300799
+  },
+  {
+    "id": 1011250,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300800
+  },
+  {
+    "id": 1011036,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300801
+  },
+  {
+    "id": 1010796,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300802
+  },
+  {
+    "id": 1009530,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300803
+  },
+  {
+    "id": 1011210,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300804
+  },
+  {
+    "id": 1011129,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 78,
+    "cardId": 300805
+  },
+  {
+    "id": 1014057,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300806
+  },
+  {
+    "id": 1010797,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300807
+  },
+  {
+    "id": 1011202,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300808
+  },
+  {
+    "id": 1011234,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300809
+  },
+  {
+    "id": 1009543,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300810
+  },
+  {
+    "id": 1009575,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300811
+  },
+  {
+    "id": 1009587,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300812
+  },
+  {
+    "id": 1011232,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300813
+  },
+  {
+    "id": 1009660,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 79,
+    "cardId": 300814
+  },
+  {
+    "id": 1010328,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300815
+  },
+  {
+    "id": 1011231,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300816
+  },
+  {
+    "id": 1009633,
+    "npt": 11,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300817
+  },
+  {
+    "id": 1011396,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300818
+  },
+  {
+    "id": 1011130,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300819
+  },
+  {
+    "id": 1011236,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300820
+  },
+  {
+    "id": 1009210,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300821
+  },
+  {
+    "id": 1009225,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300822
+  },
+  {
+    "id": 1011052,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 80,
+    "cardId": 300823
+  },
+  {
+    "id": 1010907,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300824
+  },
+  {
+    "id": 1011071,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300825
+  },
+  {
+    "id": 1011107,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300826
+  },
+  {
+    "id": 1010445,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300827
+  },
+  {
+    "id": 1011218,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300828
+  },
+  {
+    "id": 1010766,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300829
+  },
+  {
+    "id": 1010812,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300830
+  },
+  {
+    "id": 1010945,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300831
+  },
+  {
+    "id": 1009437,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 81,
+    "cardId": 300832
+  },
+  {
+    "id": 1011019,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300833
+  },
+  {
+    "id": 1011008,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300834
+  },
+  {
+    "id": 1009457,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300835
+  },
+  {
+    "id": 1017840,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300836
+  },
+  {
+    "id": 1010757,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300837
+  },
+  {
+    "id": 1009495,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300838
+  },
+  {
+    "id": 1011104,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300839
+  },
+  {
+    "id": 1010334,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300840
+  },
+  {
+    "id": 1010781,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 82,
+    "cardId": 300841
+  },
+  {
+    "id": 1009566,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300842
+  },
+  {
+    "id": 1009572,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300843
+  },
+  {
+    "id": 1010975,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300844
+  },
+  {
+    "id": 1010901,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300845
+  },
+  {
+    "id": 1011042,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300846
+  },
+  {
+    "id": 1009646,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300847
+  },
+  {
+    "id": 1009676,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300848
+  },
+  {
+    "id": 1009693,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300849
+  },
+  {
+    "id": 1010849,
+    "npt": 10,
+    "rarity": "rare",
+    "priceInitial": 83,
+    "cardId": 300850
+  },
+  {
+    "id": 1010755,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300851
+  },
+  {
+    "id": 1010674,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300852
+  },
+  {
+    "id": 1011785,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300853
+  },
+  {
+    "id": 1010829,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300854
+  },
+  {
+    "id": 1009253,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300855
+  },
+  {
+    "id": 1011087,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300856
+  },
+  {
+    "id": 1010717,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300857
+  },
+  {
+    "id": 1011206,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300858
+  },
+  {
+    "id": 1011235,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 84,
+    "cardId": 300859
+  },
+  {
+    "id": 1011213,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300860
+  },
+  {
+    "id": 1014974,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300861
+  },
+  {
+    "id": 1011256,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300862
+  },
+  {
+    "id": 1009236,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300863
+  },
+  {
+    "id": 1011257,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300864
+  },
+  {
+    "id": 1010944,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300865
+  },
+  {
+    "id": 1009242,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300866
+  },
+  {
+    "id": 1009423,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300867
+  },
+  {
+    "id": 1011350,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 85,
+    "cardId": 300868
+  },
+  {
+    "id": 1009433,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300869
+  },
+  {
+    "id": 1011422,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300870
+  },
+  {
+    "id": 1010967,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300871
+  },
+  {
+    "id": 1010790,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300872
+  },
+  {
+    "id": 1011242,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300873
+  },
+  {
+    "id": 1010974,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300874
+  },
+  {
+    "id": 1010895,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300875
+  },
+  {
+    "id": 1014905,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300876
+  },
+  {
+    "id": 1009621,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 86,
+    "cardId": 300877
+  },
+  {
+    "id": 1009637,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300878
+  },
+  {
+    "id": 1011237,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300879
+  },
+  {
+    "id": 1011239,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300880
+  },
+  {
+    "id": 1011066,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300881
+  },
+  {
+    "id": 1009706,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300882
+  },
+  {
+    "id": 1011133,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300883
+  },
+  {
+    "id": 1010996,
+    "npt": 9,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300884
+  },
+  {
+    "id": 1009149,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300885
+  },
+  {
+    "id": 1010336,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 87,
+    "cardId": 300886
+  },
+  {
+    "id": 1009177,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300887
+  },
+  {
+    "id": 1011101,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300888
+  },
+  {
+    "id": 1011037,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300889
+  },
+  {
+    "id": 1011199,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300890
+  },
+  {
+    "id": 1010880,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300891
+  },
+  {
+    "id": 1011400,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300892
+  },
+  {
+    "id": 1011391,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300893
+  },
+  {
+    "id": 1011044,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300894
+  },
+  {
+    "id": 1011118,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 88,
+    "cardId": 300895
+  },
+  {
+    "id": 1009358,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300896
+  },
+  {
+    "id": 1011876,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300897
+  },
+  {
+    "id": 1010786,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300898
+  },
+  {
+    "id": 1011310,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300899
+  },
+  {
+    "id": 1010337,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300900
+  },
+  {
+    "id": 1009260,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300901
+  },
+  {
+    "id": 1010851,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300902
+  },
+  {
+    "id": 1014998,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300903
+  },
+  {
+    "id": 1009462,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 89,
+    "cardId": 300904
+  },
+  {
+    "id": 1010956,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300905
+  },
+  {
+    "id": 1009481,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300906
+  },
+  {
+    "id": 1010734,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300907
+  },
+  {
+    "id": 1011369,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300908
+  },
+  {
+    "id": 1009311,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300909
+  },
+  {
+    "id": 1009565,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300910
+  },
+  {
+    "id": 1015001,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300911
+  },
+  {
+    "id": 1010848,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300912
+  },
+  {
+    "id": 1009601,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 90,
+    "cardId": 300913
+  },
+  {
+    "id": 1011114,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300914
+  },
+  {
+    "id": 1011062,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300915
+  },
+  {
+    "id": 1009640,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300916
+  },
+  {
+    "id": 1009644,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300917
+  },
+  {
+    "id": 1011047,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300918
+  },
+  {
+    "id": 1011128,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300919
+  },
+  {
+    "id": 1011106,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300920
+  },
+  {
+    "id": 1010372,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300921
+  },
+  {
+    "id": 1010994,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 91,
+    "cardId": 300922
+  },
+  {
+    "id": 1011067,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300923
+  },
+  {
+    "id": 1011094,
+    "npt": 8,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300924
+  },
+  {
+    "id": 1011766,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300925
+  },
+  {
+    "id": 1010843,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300926
+  },
+  {
+    "id": 1011119,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300927
+  },
+  {
+    "id": 1009206,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300928
+  },
+  {
+    "id": 1010887,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300929
+  },
+  {
+    "id": 1010916,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300930
+  },
+  {
+    "id": 1009231,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 92,
+    "cardId": 300931
+  },
+  {
+    "id": 1010346,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300932
+  },
+  {
+    "id": 1009286,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300933
+  },
+  {
+    "id": 1010922,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300934
+  },
+  {
+    "id": 1009304,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300935
+  },
+  {
+    "id": 1009645,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300936
+  },
+  {
+    "id": 1011318,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300937
+  },
+  {
+    "id": 1011259,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300938
+  },
+  {
+    "id": 1010937,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300939
+  },
+  {
+    "id": 1011314,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 93,
+    "cardId": 300940
+  },
+  {
+    "id": 1011092,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300941
+  },
+  {
+    "id": 1011403,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300942
+  },
+  {
+    "id": 1011004,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300943
+  },
+  {
+    "id": 1010867,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300944
+  },
+  {
+    "id": 1011370,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300945
+  },
+  {
+    "id": 1010741,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300946
+  },
+  {
+    "id": 1009528,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300947
+  },
+  {
+    "id": 1014666,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300948
+  },
+  {
+    "id": 1011348,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 94,
+    "cardId": 300949
+  },
+  {
+    "id": 1011117,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300950
+  },
+  {
+    "id": 1011126,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300951
+  },
+  {
+    "id": 1010745,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300952
+  },
+  {
+    "id": 1011032,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300953
+  },
+  {
+    "id": 1009605,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300954
+  },
+  {
+    "id": 1010981,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300955
+  },
+  {
+    "id": 1011960,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300956
+  },
+  {
+    "id": 1011311,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300957
+  },
+  {
+    "id": 1010862,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 95,
+    "cardId": 300958
+  },
+  {
+    "id": 1010697,
+    "npt": 7,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300959
+  },
+  {
+    "id": 1011361,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300960
+  },
+  {
+    "id": 1011301,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300961
+  },
+  {
+    "id": 1010773,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300962
+  },
+  {
+    "id": 1009201,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300963
+  },
+  {
+    "id": 1009218,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300964
+  },
+  {
+    "id": 1011937,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300965
+  },
+  {
+    "id": 1009237,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300966
+  },
+  {
+    "id": 1009293,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 96,
+    "cardId": 300967
+  },
+  {
+    "id": 1009248,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300968
+  },
+  {
+    "id": 1009302,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300969
+  },
+  {
+    "id": 1010980,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300970
+  },
+  {
+    "id": 1011240,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300971
+  },
+  {
+    "id": 1009487,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300972
+  },
+  {
+    "id": 1011251,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300973
+  },
+  {
+    "id": 1009721,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300974
+  },
+  {
+    "id": 1010679,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300975
+  },
+  {
+    "id": 1011319,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 97,
+    "cardId": 300976
+  },
+  {
+    "id": 1011074,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300977
+  },
+  {
+    "id": 1011059,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300978
+  },
+  {
+    "id": 1011414,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300979
+  },
+  {
+    "id": 1010768,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300980
+  },
+  {
+    "id": 1010732,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300981
+  },
+  {
+    "id": 1010690,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300982
+  },
+  {
+    "id": 1010871,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300983
+  },
+  {
+    "id": 1013727,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300984
+  },
+  {
+    "id": 1009455,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 98,
+    "cardId": 300985
+  },
+  {
+    "id": 1010840,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300986
+  },
+  {
+    "id": 1010886,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300987
+  },
+  {
+    "id": 1009517,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300988
+  },
+  {
+    "id": 1009584,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300989
+  },
+  {
+    "id": 1012230,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300990
+  },
+  {
+    "id": 1010753,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300991
+  },
+  {
+    "id": 1011149,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300992
+  },
+  {
+    "id": 1010713,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300993
+  },
+  {
+    "id": 1009657,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 99,
+    "cardId": 300994
+  },
+  {
+    "id": 1009678,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 300995
+  },
+  {
+    "id": 1009679,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 300996
+  },
+  {
+    "id": 1010668,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 300997
+  },
+  {
+    "id": 1011402,
+    "npt": 6,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 300998
+  },
+  {
+    "id": 1011684,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 300999
+  },
+  {
+    "id": 1010910,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 301000
+  },
+  {
+    "id": 1010881,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 301001
+  },
+  {
+    "id": 1011349,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 301002
+  },
+  {
+    "id": 1011073,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 100,
+    "cardId": 301003
+  },
+  {
+    "id": 1009203,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301004
+  },
+  {
+    "id": 1010776,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301005
+  },
+  {
+    "id": 1010879,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301006
+  },
+  {
+    "id": 1010368,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301007
+  },
+  {
+    "id": 1011313,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301008
+  },
+  {
+    "id": 1011222,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301009
+  },
+  {
+    "id": 1010863,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301010
+  },
+  {
+    "id": 1014995,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301011
+  },
+  {
+    "id": 1009345,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 101,
+    "cardId": 301012
+  },
+  {
+    "id": 1010675,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301013
+  },
+  {
+    "id": 1011063,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301014
+  },
+  {
+    "id": 1011033,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301015
+  },
+  {
+    "id": 1010842,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301016
+  },
+  {
+    "id": 1011147,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301017
+  },
+  {
+    "id": 1011029,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301018
+  },
+  {
+    "id": 1009436,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301019
+  },
+  {
+    "id": 1010947,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301020
+  },
+  {
+    "id": 1010357,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 102,
+    "cardId": 301021
+  },
+  {
+    "id": 1009503,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301022
+  },
+  {
+    "id": 1010959,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301023
+  },
+  {
+    "id": 1009506,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301024
+  },
+  {
+    "id": 1011154,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301025
+  },
+  {
+    "id": 1010712,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301026
+  },
+  {
+    "id": 1009582,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301027
+  },
+  {
+    "id": 1010858,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301028
+  },
+  {
+    "id": 1011157,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301029
+  },
+  {
+    "id": 1009602,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 103,
+    "cardId": 301030
+  },
+  {
+    "id": 1009647,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301031
+  },
+  {
+    "id": 1015004,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301032
+  },
+  {
+    "id": 1011352,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301033
+  },
+  {
+    "id": 1011315,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301034
+  },
+  {
+    "id": 1011121,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301035
+  },
+  {
+    "id": 1011588,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301036
+  },
+  {
+    "id": 1009742,
+    "npt": 5,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301037
+  },
+  {
+    "id": 1017100,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301038
+  },
+  {
+    "id": 1011136,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 104,
+    "cardId": 301039
+  },
+  {
+    "id": 1011176,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301040
+  },
+  {
+    "id": 1010673,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301041
+  },
+  {
+    "id": 1011354,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301042
+  },
+  {
+    "id": 1011139,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301043
+  },
+  {
+    "id": 1010143,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301044
+  },
+  {
+    "id": 1012065,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301045
+  },
+  {
+    "id": 1011286,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301046
+  },
+  {
+    "id": 1014991,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301047
+  },
+  {
+    "id": 1011142,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 105,
+    "cardId": 301048
+  },
+  {
+    "id": 1011247,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301049
+  },
+  {
+    "id": 1011322,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301050
+  },
+  {
+    "id": 1012378,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301051
+  },
+  {
+    "id": 1010703,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301052
+  },
+  {
+    "id": 1011397,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301053
+  },
+  {
+    "id": 1009401,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301054
+  },
+  {
+    "id": 1010940,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301055
+  },
+  {
+    "id": 1011053,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301056
+  },
+  {
+    "id": 1011364,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 106,
+    "cardId": 301057
+  },
+  {
+    "id": 1009446,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301058
+  },
+  {
+    "id": 1009623,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301059
+  },
+  {
+    "id": 1010826,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301060
+  },
+  {
+    "id": 1011124,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301061
+  },
+  {
+    "id": 1010955,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301062
+  },
+  {
+    "id": 1009620,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301063
+  },
+  {
+    "id": 1011150,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301064
+  },
+  {
+    "id": 1011021,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301065
+  },
+  {
+    "id": 1017839,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 107,
+    "cardId": 301066
+  },
+  {
+    "id": 1009510,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301067
+  },
+  {
+    "id": 1010964,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301068
+  },
+  {
+    "id": 1011325,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301069
+  },
+  {
+    "id": 1009586,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301070
+  },
+  {
+    "id": 1011212,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301071
+  },
+  {
+    "id": 1009635,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301072
+  },
+  {
+    "id": 1010982,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301073
+  },
+  {
+    "id": 1011295,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301074
+  },
+  {
+    "id": 1010985,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 108,
+    "cardId": 301075
+  },
+  {
+    "id": 1011261,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301076
+  },
+  {
+    "id": 1009723,
+    "npt": 4,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301077
+  },
+  {
+    "id": 1010903,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301078
+  },
+  {
+    "id": 1011253,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301079
+  },
+  {
+    "id": 1010830,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301080
+  },
+  {
+    "id": 1009202,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301081
+  },
+  {
+    "id": 1010688,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301082
+  },
+  {
+    "id": 1011038,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301083
+  },
+  {
+    "id": 1010914,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 109,
+    "cardId": 301084
+  },
+  {
+    "id": 1010915,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301085
+  },
+  {
+    "id": 1009238,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301086
+  },
+  {
+    "id": 1009254,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301087
+  },
+  {
+    "id": 1010774,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301088
+  },
+  {
+    "id": 1011188,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301089
+  },
+  {
+    "id": 1009272,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301090
+  },
+  {
+    "id": 1011260,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301091
+  },
+  {
+    "id": 1011040,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301092
+  },
+  {
+    "id": 1009278,
+    "npt": 3,
+    "rarity": "rare",
+    "priceInitial": 110,
+    "cardId": 301093
+  },
+  {
+    "id": 1014992,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301094
+  },
+  {
+    "id": 1015007,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301095
+  },
+  {
+    "id": 1011122,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301096
+  },
+  {
+    "id": 1009335,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301097
+  },
+  {
+    "id": 1014993,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301098
+  },
+  {
+    "id": 1010670,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301099
+  },
+  {
+    "id": 1010816,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301100
+  },
+  {
+    "id": 1010931,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301101
+  },
+  {
+    "id": 1011246,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301102
+  },
+  {
+    "id": 1011064,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301103
+  },
+  {
+    "id": 1010775,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301104
+  },
+  {
+    "id": 1010777,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 110,
+    "cardId": 301105
+  },
+  {
+    "id": 1010936,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 111,
+    "cardId": 301106
+  },
+  {
+    "id": 1011014,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 111,
+    "cardId": 301107
+  },
+  {
+    "id": 1010869,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 111,
+    "cardId": 301108
+  },
+  {
+    "id": 1011099,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 112,
+    "cardId": 301109
+  },
+  {
+    "id": 1010924,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 112,
+    "cardId": 301110
+  },
+  {
+    "id": 1011254,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 112,
+    "cardId": 301111
+  },
+  {
+    "id": 1010952,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 113,
+    "cardId": 301112
+  },
+  {
+    "id": 1011269,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 113,
+    "cardId": 301113
+  },
+  {
+    "id": 1011228,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 113,
+    "cardId": 301114
+  },
+  {
+    "id": 1011321,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 114,
+    "cardId": 301115
+  },
+  {
+    "id": 1011151,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 114,
+    "cardId": 301116
+  },
+  {
+    "id": 1011152,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 114,
+    "cardId": 301117
+  },
+  {
+    "id": 1009502,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 115,
+    "cardId": 301118
+  },
+  {
+    "id": 1010767,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 115,
+    "cardId": 301119
+  },
+  {
+    "id": 1009600,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 115,
+    "cardId": 301120
+  },
+  {
+    "id": 1010819,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 116,
+    "cardId": 301121
+  },
+  {
+    "id": 1011978,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 116,
+    "cardId": 301122
+  },
+  {
+    "id": 1009689,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 116,
+    "cardId": 301123
+  },
+  {
+    "id": 1011226,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 117,
+    "cardId": 301124
+  },
+  {
+    "id": 1015005,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 117,
+    "cardId": 301125
+  },
+  {
+    "id": 1010716,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 117,
+    "cardId": 301126
+  },
+  {
+    "id": 1011183,
+    "npt": 3,
+    "rarity": "epic",
+    "priceInitial": 118,
+    "cardId": 301127
+  },
+  {
+    "id": 1016823,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 118,
+    "cardId": 301128
+  },
+  {
+    "id": 1011324,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 118,
+    "cardId": 301129
+  },
+  {
+    "id": 1016824,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 119,
+    "cardId": 301130
+  },
+  {
+    "id": 1010686,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 119,
+    "cardId": 301131
+  },
+  {
+    "id": 1009550,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 119,
+    "cardId": 301132
+  },
+  {
+    "id": 1009173,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 120,
+    "cardId": 301133
+  },
+  {
+    "id": 1011793,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 120,
+    "cardId": 301134
+  },
+  {
+    "id": 1009181,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 120,
+    "cardId": 301135
+  },
+  {
+    "id": 1010356,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 121,
+    "cardId": 301136
+  },
+  {
+    "id": 1011252,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 121,
+    "cardId": 301137
+  },
+  {
+    "id": 1011141,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 121,
+    "cardId": 301138
+  },
+  {
+    "id": 1011187,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 122,
+    "cardId": 301139
+  },
+  {
+    "id": 1014999,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 122,
+    "cardId": 301140
+  },
+  {
+    "id": 1011362,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 122,
+    "cardId": 301141
+  },
+  {
+    "id": 1011050,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 123,
+    "cardId": 301142
+  },
+  {
+    "id": 1011432,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 123,
+    "cardId": 301143
+  },
+  {
+    "id": 1011177,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 123,
+    "cardId": 301144
+  },
+  {
+    "id": 1011221,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 124,
+    "cardId": 301145
+  },
+  {
+    "id": 1010929,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 124,
+    "cardId": 301146
+  },
+  {
+    "id": 1011091,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 124,
+    "cardId": 301147
+  },
+  {
+    "id": 1014996,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 125,
+    "cardId": 301148
+  },
+  {
+    "id": 1010343,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 125,
+    "cardId": 301149
+  },
+  {
+    "id": 1011293,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 125,
+    "cardId": 301150
+  },
+  {
+    "id": 1011412,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 126,
+    "cardId": 301151
+  },
+  {
+    "id": 1009388,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 126,
+    "cardId": 301152
+  },
+  {
+    "id": 1009392,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 126,
+    "cardId": 301153
+  },
+  {
+    "id": 1010939,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 127,
+    "cardId": 301154
+  },
+  {
+    "id": 1011320,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 127,
+    "cardId": 301155
+  },
+  {
+    "id": 1009418,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 127,
+    "cardId": 301156
+  },
+  {
+    "id": 1010942,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 128,
+    "cardId": 301157
+  },
+  {
+    "id": 1009422,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 128,
+    "cardId": 301158
+  },
+  {
+    "id": 1010993,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 128,
+    "cardId": 301159
+  },
+  {
+    "id": 1011184,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 129,
+    "cardId": 301160
+  },
+  {
+    "id": 1010941,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 129,
+    "cardId": 301161
+  },
+  {
+    "id": 1009541,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 129,
+    "cardId": 301162
+  },
+  {
+    "id": 1010876,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 130,
+    "cardId": 301163
+  },
+  {
+    "id": 1010331,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 130,
+    "cardId": 301164
+  },
+  {
+    "id": 1010953,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 130,
+    "cardId": 301165
+  },
+  {
+    "id": 1013483,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 131,
+    "cardId": 301166
+  },
+  {
+    "id": 1010706,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 131,
+    "cardId": 301167
+  },
+  {
+    "id": 1011329,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 131,
+    "cardId": 301168
+  },
+  {
+    "id": 1010708,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 132,
+    "cardId": 301169
+  },
+  {
+    "id": 1011419,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 132,
+    "cardId": 301170
+  },
+  {
+    "id": 1009498,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 132,
+    "cardId": 301171
+  },
+  {
+    "id": 1015000,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 133,
+    "cardId": 301172
+  },
+  {
+    "id": 1011155,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 133,
+    "cardId": 301173
+  },
+  {
+    "id": 1010711,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 133,
+    "cardId": 301174
+  },
+  {
+    "id": 1011230,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 134,
+    "cardId": 301175
+  },
+  {
+    "id": 1010973,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 134,
+    "cardId": 301176
+  },
+  {
+    "id": 1011393,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 134,
+    "cardId": 301177
+  },
+  {
+    "id": 1015002,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 135,
+    "cardId": 301178
+  },
+  {
+    "id": 1015003,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 135,
+    "cardId": 301179
+  },
+  {
+    "id": 1010764,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 135,
+    "cardId": 301180
+  },
+  {
+    "id": 1011159,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 136,
+    "cardId": 301181
+  },
+  {
+    "id": 1011075,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 136,
+    "cardId": 301182
+  },
+  {
+    "id": 1009642,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 136,
+    "cardId": 301183
+  },
+  {
+    "id": 1011854,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 137,
+    "cardId": 301184
+  },
+  {
+    "id": 1011162,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 137,
+    "cardId": 301185
+  },
+  {
+    "id": 1009653,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 137,
+    "cardId": 301186
+  },
+  {
+    "id": 1011294,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 138,
+    "cardId": 301187
+  },
+  {
+    "id": 1011211,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 138,
+    "cardId": 301188
+  },
+  {
+    "id": 1009674,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 138,
+    "cardId": 301189
+  },
+  {
+    "id": 1011425,
+    "npt": 2,
+    "rarity": "epic",
+    "priceInitial": 139,
+    "cardId": 301190
+  },
+  {
+    "id": 1011120,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 139,
+    "cardId": 301191
+  },
+  {
+    "id": 1009497,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 139,
+    "cardId": 301192
+  },
+  {
+    "id": 1011012,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 140,
+    "cardId": 301193
+  },
+  {
+    "id": 1010827,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 140,
+    "cardId": 301194
+  },
+  {
+    "id": 1011137,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 140,
+    "cardId": 301195
+  },
+  {
+    "id": 1009178,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 141,
+    "cardId": 301196
+  },
+  {
+    "id": 1011224,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 141,
+    "cardId": 301197
+  },
+  {
+    "id": 1010859,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 141,
+    "cardId": 301198
+  },
+  {
+    "id": 1017109,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 142,
+    "cardId": 301199
+  },
+  {
+    "id": 1011113,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 142,
+    "cardId": 301200
+  },
+  {
+    "id": 1011264,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 142,
+    "cardId": 301201
+  },
+  {
+    "id": 1010912,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 143,
+    "cardId": 301202
+  },
+  {
+    "id": 1009226,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 143,
+    "cardId": 301203
+  },
+  {
+    "id": 1009230,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 143,
+    "cardId": 301204
+  },
+  {
+    "id": 1011411,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 144,
+    "cardId": 301205
+  },
+  {
+    "id": 1011410,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 144,
+    "cardId": 301206
+  },
+  {
+    "id": 1011407,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 144,
+    "cardId": 301207
+  },
+  {
+    "id": 1009250,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 145,
+    "cardId": 301208
+  },
+  {
+    "id": 1011268,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 145,
+    "cardId": 301209
+  },
+  {
+    "id": 1011306,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 145,
+    "cardId": 301210
+  },
+  {
+    "id": 1010341,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 146,
+    "cardId": 301211
+  },
+  {
+    "id": 1014997,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 146,
+    "cardId": 301212
+  },
+  {
+    "id": 1009713,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 146,
+    "cardId": 301213
+  },
+  {
+    "id": 1010355,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 147,
+    "cardId": 301214
+  },
+  {
+    "id": 1009290,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 147,
+    "cardId": 301215
+  },
+  {
+    "id": 1017858,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 147,
+    "cardId": 301216
+  },
+  {
+    "id": 1011111,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 148,
+    "cardId": 301217
+  },
+  {
+    "id": 1012513,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 148,
+    "cardId": 301218
+  },
+  {
+    "id": 1009332,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 148,
+    "cardId": 301219
+  },
+  {
+    "id": 1009333,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 149,
+    "cardId": 301220
+  },
+  {
+    "id": 1011046,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 149,
+    "cardId": 301221
+  },
+  {
+    "id": 1009341,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 149,
+    "cardId": 301222
+  },
+  {
+    "id": 1017098,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 150,
+    "cardId": 301223
+  },
+  {
+    "id": 1009529,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 150,
+    "cardId": 301224
+  },
+  {
+    "id": 1011413,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 150,
+    "cardId": 301225
+  },
+  {
+    "id": 1010878,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 151,
+    "cardId": 301226
+  },
+  {
+    "id": 1009373,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 151,
+    "cardId": 301227
+  },
+  {
+    "id": 1013163,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 151,
+    "cardId": 301228
+  },
+  {
+    "id": 1009397,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 152,
+    "cardId": 301229
+  },
+  {
+    "id": 1011375,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 152,
+    "cardId": 301230
+  },
+  {
+    "id": 1010977,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 152,
+    "cardId": 301231
+  },
+  {
+    "id": 1011408,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 153,
+    "cardId": 301232
+  },
+  {
+    "id": 1011145,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 153,
+    "cardId": 301233
+  },
+  {
+    "id": 1011405,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 153,
+    "cardId": 301234
+  },
+  {
+    "id": 1010724,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 154,
+    "cardId": 301235
+  },
+  {
+    "id": 1011205,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 154,
+    "cardId": 301236
+  },
+  {
+    "id": 1011243,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 154,
+    "cardId": 301237
+  },
+  {
+    "id": 1011417,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 155,
+    "cardId": 301238
+  },
+  {
+    "id": 1010361,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 155,
+    "cardId": 301239
+  },
+  {
+    "id": 1011204,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 155,
+    "cardId": 301240
+  },
+  {
+    "id": 1010949,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 156,
+    "cardId": 301241
+  },
+  {
+    "id": 1010902,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 156,
+    "cardId": 301242
+  },
+  {
+    "id": 1010900,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 156,
+    "cardId": 301243
+  },
+  {
+    "id": 1010954,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 157,
+    "cardId": 301244
+  },
+  {
+    "id": 1011303,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 157,
+    "cardId": 301245
+  },
+  {
+    "id": 1011409,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 157,
+    "cardId": 301246
+  },
+  {
+    "id": 1014160,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 158,
+    "cardId": 301247
+  },
+  {
+    "id": 1011326,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 158,
+    "cardId": 301248
+  },
+  {
+    "id": 1017099,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 158,
+    "cardId": 301249
+  },
+  {
+    "id": 1011189,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 159,
+    "cardId": 301250
+  },
+  {
+    "id": 1011330,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 159,
+    "cardId": 301251
+  },
+  {
+    "id": 1010769,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 159,
+    "cardId": 301252
+  },
+  {
+    "id": 1009549,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 160,
+    "cardId": 301253
+  },
+  {
+    "id": 1010970,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 160,
+    "cardId": 301254
+  },
+  {
+    "id": 1011156,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 160,
+    "cardId": 301255
+  },
+  {
+    "id": 1011079,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 161,
+    "cardId": 301256
+  },
+  {
+    "id": 1009569,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 161,
+    "cardId": 301257
+  },
+  {
+    "id": 1011167,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 161,
+    "cardId": 301258
+  },
+  {
+    "id": 1011406,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 162,
+    "cardId": 301259
+  },
+  {
+    "id": 1017111,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 162,
+    "cardId": 301260
+  },
+  {
+    "id": 1011394,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 162,
+    "cardId": 301261
+  },
+  {
+    "id": 1010824,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 163,
+    "cardId": 301262
+  },
+  {
+    "id": 1017101,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 163,
+    "cardId": 301263
+  },
+  {
+    "id": 1011070,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 163,
+    "cardId": 301264
+  },
+  {
+    "id": 1010874,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 164,
+    "cardId": 301265
+  },
+  {
+    "id": 1011017,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 164,
+    "cardId": 301266
+  },
+  {
+    "id": 1011395,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 164,
+    "cardId": 301267
+  },
+  {
+    "id": 1011161,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 165,
+    "cardId": 301268
+  },
+  {
+    "id": 1011896,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 165,
+    "cardId": 301269
+  },
+  {
+    "id": 1011219,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 165,
+    "cardId": 301270
+  },
+  {
+    "id": 1011216,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 166,
+    "cardId": 301271
+  },
+  {
+    "id": 1009668,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 166,
+    "cardId": 301272
+  },
+  {
+    "id": 1011125,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 166,
+    "cardId": 301273
+  },
+  {
+    "id": 1010847,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 167,
+    "cardId": 301274
+  },
+  {
+    "id": 1010987,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 167,
+    "cardId": 301275
+  },
+  {
+    "id": 1010990,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 167,
+    "cardId": 301276
+  },
+  {
+    "id": 1010991,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 168,
+    "cardId": 301277
+  },
+  {
+    "id": 1010995,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 168,
+    "cardId": 301278
+  },
+  {
+    "id": 1011127,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 168,
+    "cardId": 301279
+  },
+  {
+    "id": 1009741,
+    "npt": 1,
+    "rarity": "epic",
+    "priceInitial": 169,
+    "cardId": 301280
+  },
+  {
+    "id": 1011266,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 169,
+    "cardId": 301281
+  },
+  {
+    "id": 1010846,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 169,
+    "cardId": 301282
+  },
+  {
+    "id": 1011175,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 170,
+    "cardId": 301283
+  },
+  {
+    "id": 1010870,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 170,
+    "cardId": 301284
+  },
+  {
+    "id": 1011194,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 170,
+    "cardId": 301285
+  },
+  {
+    "id": 1011170,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 171,
+    "cardId": 301286
+  },
+  {
+    "id": 1009240,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 171,
+    "cardId": 301287
+  },
+  {
+    "id": 1011214,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 171,
+    "cardId": 301288
+  },
+  {
+    "id": 1014990,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 172,
+    "cardId": 301289
+  },
+  {
+    "id": 1011164,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 172,
+    "cardId": 301290
+  },
+  {
+    "id": 1009567,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 172,
+    "cardId": 301291
+  },
+  {
+    "id": 1011382,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 173,
+    "cardId": 301292
+  },
+  {
+    "id": 1010905,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 173,
+    "cardId": 301293
+  },
+  {
+    "id": 1009346,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 173,
+    "cardId": 301294
+  },
+  {
+    "id": 1010866,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 174,
+    "cardId": 301295
+  },
+  {
+    "id": 1011275,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 174,
+    "cardId": 301296
+  },
+  {
+    "id": 1010748,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 174,
+    "cardId": 301297
+  },
+  {
+    "id": 1009161,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 175,
+    "cardId": 301298
+  },
+  {
+    "id": 1010718,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 175,
+    "cardId": 301299
+  },
+  {
+    "id": 1009162,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 175,
+    "cardId": 301300
+  },
+  {
+    "id": 1010835,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 176,
+    "cardId": 301301
+  },
+  {
+    "id": 1010909,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 176,
+    "cardId": 301302
+  },
+  {
+    "id": 1009176,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 176,
+    "cardId": 301303
+  },
+  {
+    "id": 1011296,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 177,
+    "cardId": 301304
+  },
+  {
+    "id": 1011262,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 177,
+    "cardId": 301305
+  },
+  {
+    "id": 1009183,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 177,
+    "cardId": 301306
+  },
+  {
+    "id": 1017330,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 178,
+    "cardId": 301307
+  },
+  {
+    "id": 1017296,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 178,
+    "cardId": 301308
+  },
+  {
+    "id": 1010850,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 178,
+    "cardId": 301309
+  },
+  {
+    "id": 1014981,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 179,
+    "cardId": 301310
+  },
+  {
+    "id": 1017307,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 179,
+    "cardId": 301311
+  },
+  {
+    "id": 1017472,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 179,
+    "cardId": 301312
+  },
+  {
+    "id": 1011276,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 180,
+    "cardId": 301313
+  },
+  {
+    "id": 1017295,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 180,
+    "cardId": 301314
+  },
+  {
+    "id": 1017327,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 180,
+    "cardId": 301315
+  },
+  {
+    "id": 1017105,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 181,
+    "cardId": 301316
+  },
+  {
+    "id": 1011190,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 181,
+    "cardId": 301317
+  },
+  {
+    "id": 1011196,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 181,
+    "cardId": 301318
+  },
+  {
+    "id": 1011355,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 182,
+    "cardId": 301319
+  },
+  {
+    "id": 1009344,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 182,
+    "cardId": 301320
+  },
+  {
+    "id": 1011140,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 182,
+    "cardId": 301321
+  },
+  {
+    "id": 1011015,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 183,
+    "cardId": 301322
+  },
+  {
+    "id": 1011331,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 183,
+    "cardId": 301323
+  },
+  {
+    "id": 1011359,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 183,
+    "cardId": 301324
+  },
+  {
+    "id": 1010798,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 184,
+    "cardId": 301325
+  },
+  {
+    "id": 1009246,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 184,
+    "cardId": 301326
+  },
+  {
+    "id": 1011272,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 184,
+    "cardId": 301327
+  },
+  {
+    "id": 1017323,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 185,
+    "cardId": 301328
+  },
+  {
+    "id": 1011169,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 185,
+    "cardId": 301329
+  },
+  {
+    "id": 1011174,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 185,
+    "cardId": 301330
+  },
+  {
+    "id": 1017473,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 186,
+    "cardId": 301331
+  },
+  {
+    "id": 1017292,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 186,
+    "cardId": 301332
+  },
+  {
+    "id": 1017312,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 186,
+    "cardId": 301333
+  },
+  {
+    "id": 1017316,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 187,
+    "cardId": 301334
+  },
+  {
+    "id": 1017336,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 187,
+    "cardId": 301335
+  },
+  {
+    "id": 1017474,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 187,
+    "cardId": 301336
+  },
+  {
+    "id": 1017102,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 188,
+    "cardId": 301337
+  },
+  {
+    "id": 1010997,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 188,
+    "cardId": 301338
+  },
+  {
+    "id": 1011195,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 188,
+    "cardId": 301339
+  },
+  {
+    "id": 1017300,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 189,
+    "cardId": 301340
+  },
+  {
+    "id": 1009396,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 189,
+    "cardId": 301341
+  },
+  {
+    "id": 1010999,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 189,
+    "cardId": 301342
+  },
+  {
+    "id": 1011065,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 190,
+    "cardId": 301343
+  },
+  {
+    "id": 1009296,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 190,
+    "cardId": 301344
+  },
+  {
+    "id": 1017110,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 190,
+    "cardId": 301345
+  },
+  {
+    "id": 1011143,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 191,
+    "cardId": 301346
+  },
+  {
+    "id": 1014987,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 191,
+    "cardId": 301347
+  },
+  {
+    "id": 1010333,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 191,
+    "cardId": 301348
+  },
+  {
+    "id": 1009377,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 192,
+    "cardId": 301349
+  },
+  {
+    "id": 1011384,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 192,
+    "cardId": 301350
+  },
+  {
+    "id": 1011201,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 192,
+    "cardId": 301351
+  },
+  {
+    "id": 1017324,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 193,
+    "cardId": 301352
+  },
+  {
+    "id": 1011380,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 193,
+    "cardId": 301353
+  },
+  {
+    "id": 1011248,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 193,
+    "cardId": 301354
+  },
+  {
+    "id": 1009556,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 194,
+    "cardId": 301355
+  },
+  {
+    "id": 1017329,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 194,
+    "cardId": 301356
+  },
+  {
+    "id": 1010720,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 194,
+    "cardId": 301357
+  },
+  {
+    "id": 1014982,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 195,
+    "cardId": 301358
+  },
+  {
+    "id": 1011374,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 195,
+    "cardId": 301359
+  },
+  {
+    "id": 1009326,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 195,
+    "cardId": 301360
+  },
+  {
+    "id": 1011292,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 196,
+    "cardId": 301361
+  },
+  {
+    "id": 1009331,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 196,
+    "cardId": 301362
+  },
+  {
+    "id": 1010709,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 196,
+    "cardId": 301363
+  },
+  {
+    "id": 1011185,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 197,
+    "cardId": 301364
+  },
+  {
+    "id": 1011069,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 197,
+    "cardId": 301365
+  },
+  {
+    "id": 1009339,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 197,
+    "cardId": 301366
+  },
+  {
+    "id": 1017311,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 198,
+    "cardId": 301367
+  },
+  {
+    "id": 1017108,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 198,
+    "cardId": 301368
+  },
+  {
+    "id": 1011274,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 198,
+    "cardId": 301369
+  },
+  {
+    "id": 1010839,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 199,
+    "cardId": 301370
+  },
+  {
+    "id": 1011383,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 199,
+    "cardId": 301371
+  },
+  {
+    "id": 1009350,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 199,
+    "cardId": 301372
+  },
+  {
+    "id": 1009557,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 200,
+    "cardId": 301373
+  },
+  {
+    "id": 1017333,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 200,
+    "cardId": 301374
+  },
+  {
+    "id": 1017303,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 200,
+    "cardId": 301375
+  },
+  {
+    "id": 1010721,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 201,
+    "cardId": 301376
+  },
+  {
+    "id": 1017107,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 201,
+    "cardId": 301377
+  },
+  {
+    "id": 1011415,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 201,
+    "cardId": 301378
+  },
+  {
+    "id": 1017475,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 202,
+    "cardId": 301379
+  },
+  {
+    "id": 1011273,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 202,
+    "cardId": 301380
+  },
+  {
+    "id": 1011089,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 202,
+    "cardId": 301381
+  },
+  {
+    "id": 1011146,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 203,
+    "cardId": 301382
+  },
+  {
+    "id": 1017301,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 203,
+    "cardId": 301383
+  },
+  {
+    "id": 1011379,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 203,
+    "cardId": 301384
+  },
+  {
+    "id": 1016839,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 204,
+    "cardId": 301385
+  },
+  {
+    "id": 1017320,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 204,
+    "cardId": 301386
+  },
+  {
+    "id": 1017294,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 204,
+    "cardId": 301387
+  },
+  {
+    "id": 1017310,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 205,
+    "cardId": 301388
+  },
+  {
+    "id": 1017326,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 205,
+    "cardId": 301389
+  },
+  {
+    "id": 1017104,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 205,
+    "cardId": 301390
+  },
+  {
+    "id": 1009371,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 206,
+    "cardId": 301391
+  },
+  {
+    "id": 1010844,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 206,
+    "cardId": 301392
+  },
+  {
+    "id": 1010736,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 206,
+    "cardId": 301393
+  },
+  {
+    "id": 1011344,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 207,
+    "cardId": 301394
+  },
+  {
+    "id": 1009604,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 207,
+    "cardId": 301395
+  },
+  {
+    "id": 1009375,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 207,
+    "cardId": 301396
+  },
+  {
+    "id": 1011171,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 208,
+    "cardId": 301397
+  },
+  {
+    "id": 1009500,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 208,
+    "cardId": 301398
+  },
+  {
+    "id": 1010938,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 208,
+    "cardId": 301399
+  },
+  {
+    "id": 1010772,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 209,
+    "cardId": 301400
+  },
+  {
+    "id": 1014983,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 209,
+    "cardId": 301401
+  },
+  {
+    "id": 1009386,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 209,
+    "cardId": 301402
+  },
+  {
+    "id": 1011308,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 210,
+    "cardId": 301403
+  },
+  {
+    "id": 1017476,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 210,
+    "cardId": 301404
+  },
+  {
+    "id": 1015017,
+    "npt": 0,
+    "rarity": "epic",
+    "priceInitial": 210,
+    "cardId": 301405
+  },
+  {
+    "id": 1011178,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301406
+  },
+  {
+    "id": 1011058,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301407
+  },
+  {
+    "id": 1014977,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301408
+  },
+  {
+    "id": 1014976,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301409
+  },
+  {
+    "id": 1009394,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301410
+  },
+  {
+    "id": 1009395,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301411
+  },
+  {
+    "id": 1009166,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301412
+  },
+  {
+    "id": 1011186,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 210,
+    "cardId": 301413
+  },
+  {
+    "id": 1010340,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 211,
+    "cardId": 301414
+  },
+  {
+    "id": 1014988,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 212,
+    "cardId": 301415
+  },
+  {
+    "id": 1017299,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 213,
+    "cardId": 301416
+  },
+  {
+    "id": 1014980,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 214,
+    "cardId": 301417
+  },
+  {
+    "id": 1011283,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 215,
+    "cardId": 301418
+  },
+  {
+    "id": 1009409,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 216,
+    "cardId": 301419
+  },
+  {
+    "id": 1010751,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 217,
+    "cardId": 301420
+  },
+  {
+    "id": 1011200,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 218,
+    "cardId": 301421
+  },
+  {
+    "id": 1017321,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 219,
+    "cardId": 301422
+  },
+  {
+    "id": 1009314,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 220,
+    "cardId": 301423
+  },
+  {
+    "id": 1011135,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 221,
+    "cardId": 301424
+  },
+  {
+    "id": 1017477,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 222,
+    "cardId": 301425
+  },
+  {
+    "id": 1011085,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 223,
+    "cardId": 301426
+  },
+  {
+    "id": 1011229,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 224,
+    "cardId": 301427
+  },
+  {
+    "id": 1015018,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 225,
+    "cardId": 301428
+  },
+  {
+    "id": 1011173,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 226,
+    "cardId": 301429
+  },
+  {
+    "id": 1011263,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 227,
+    "cardId": 301430
+  },
+  {
+    "id": 1010877,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 228,
+    "cardId": 301431
+  },
+  {
+    "id": 1009677,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 229,
+    "cardId": 301432
+  },
+  {
+    "id": 1010793,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 230,
+    "cardId": 301433
+  },
+  {
+    "id": 1009441,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 231,
+    "cardId": 301434
+  },
+  {
+    "id": 1009443,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 232,
+    "cardId": 301435
+  },
+  {
+    "id": 1011340,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 233,
+    "cardId": 301436
+  },
+  {
+    "id": 1009444,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 234,
+    "cardId": 301437
+  },
+  {
+    "id": 1010891,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 235,
+    "cardId": 301438
+  },
+  {
+    "id": 1011192,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 236,
+    "cardId": 301439
+  },
+  {
+    "id": 1017318,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 237,
+    "cardId": 301440
+  },
+  {
+    "id": 1010948,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 238,
+    "cardId": 301441
+  },
+  {
+    "id": 1009450,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 239,
+    "cardId": 301442
+  },
+  {
+    "id": 1009458,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 240,
+    "cardId": 301443
+  },
+  {
+    "id": 1014984,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 241,
+    "cardId": 301444
+  },
+  {
+    "id": 1009461,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 242,
+    "cardId": 301445
+  },
+  {
+    "id": 1011372,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 243,
+    "cardId": 301446
+  },
+  {
+    "id": 1010951,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 244,
+    "cardId": 301447
+  },
+  {
+    "id": 1014978,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 245,
+    "cardId": 301448
+  },
+  {
+    "id": 1011302,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 246,
+    "cardId": 301449
+  },
+  {
+    "id": 1010831,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 247,
+    "cardId": 301450
+  },
+  {
+    "id": 1010815,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 248,
+    "cardId": 301451
+  },
+  {
+    "id": 1017298,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 249,
+    "cardId": 301452
+  },
+  {
+    "id": 1011282,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 250,
+    "cardId": 301453
+  },
+  {
+    "id": 1010063,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 251,
+    "cardId": 301454
+  },
+  {
+    "id": 1016837,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 252,
+    "cardId": 301455
+  },
+  {
+    "id": 1011255,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 253,
+    "cardId": 301456
+  },
+  {
+    "id": 1010332,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 254,
+    "cardId": 301457
+  },
+  {
+    "id": 1011351,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 255,
+    "cardId": 301458
+  },
+  {
+    "id": 1016840,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 256,
+    "cardId": 301459
+  },
+  {
+    "id": 1014989,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 257,
+    "cardId": 301460
+  },
+  {
+    "id": 1010750,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 258,
+    "cardId": 301461
+  },
+  {
+    "id": 1011153,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 259,
+    "cardId": 301462
+  },
+  {
+    "id": 1011378,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 260,
+    "cardId": 301463
+  },
+  {
+    "id": 1010960,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 261,
+    "cardId": 301464
+  },
+  {
+    "id": 1010961,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 262,
+    "cardId": 301465
+  },
+  {
+    "id": 1010865,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 263,
+    "cardId": 301466
+  },
+  {
+    "id": 1011165,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 264,
+    "cardId": 301467
+  },
+  {
+    "id": 1017306,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 265,
+    "cardId": 301468
+  },
+  {
+    "id": 1011191,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 266,
+    "cardId": 301469
+  },
+  {
+    "id": 1011280,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 267,
+    "cardId": 301470
+  },
+  {
+    "id": 1009527,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 268,
+    "cardId": 301471
+  },
+  {
+    "id": 1010838,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 269,
+    "cardId": 301472
+  },
+  {
+    "id": 1011249,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 270,
+    "cardId": 301473
+  },
+  {
+    "id": 1011238,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 271,
+    "cardId": 301474
+  },
+  {
+    "id": 1010965,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 272,
+    "cardId": 301475
+  },
+  {
+    "id": 1011401,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 273,
+    "cardId": 301476
+  },
+  {
+    "id": 1015006,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 274,
+    "cardId": 301477
+  },
+  {
+    "id": 1010792,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 275,
+    "cardId": 301478
+  },
+  {
+    "id": 1009235,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 276,
+    "cardId": 301479
+  },
+  {
+    "id": 1017314,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 277,
+    "cardId": 301480
+  },
+  {
+    "id": 1017319,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 278,
+    "cardId": 301481
+  },
+  {
+    "id": 1017478,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 279,
+    "cardId": 301482
+  },
+  {
+    "id": 1009595,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 280,
+    "cardId": 301483
+  },
+  {
+    "id": 1009551,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 281,
+    "cardId": 301484
+  },
+  {
+    "id": 1009559,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 282,
+    "cardId": 301485
+  },
+  {
+    "id": 1010972,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 283,
+    "cardId": 301486
+  },
+  {
+    "id": 1017308,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 284,
+    "cardId": 301487
+  },
+  {
+    "id": 1014979,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 285,
+    "cardId": 301488
+  },
+  {
+    "id": 1017331,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 286,
+    "cardId": 301489
+  },
+  {
+    "id": 1015035,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 287,
+    "cardId": 301490
+  },
+  {
+    "id": 1011168,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 288,
+    "cardId": 301491
+  },
+  {
+    "id": 1011381,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 289,
+    "cardId": 301492
+  },
+  {
+    "id": 1010856,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 290,
+    "cardId": 301493
+  },
+  {
+    "id": 1010339,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 291,
+    "cardId": 301494
+  },
+  {
+    "id": 1014975,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 292,
+    "cardId": 301495
+  },
+  {
+    "id": 1010834,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 293,
+    "cardId": 301496
+  },
+  {
+    "id": 1010845,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 294,
+    "cardId": 301497
+  },
+  {
+    "id": 1009607,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 295,
+    "cardId": 301498
+  },
+  {
+    "id": 1011366,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 296,
+    "cardId": 301499
+  },
+  {
+    "id": 1010727,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 297,
+    "cardId": 301500
+  },
+  {
+    "id": 1012200,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 298,
+    "cardId": 301501
+  },
+  {
+    "id": 1017332,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 299,
+    "cardId": 301502
+  },
+  {
+    "id": 1017305,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 300,
+    "cardId": 301503
+  },
+  {
+    "id": 1011377,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 301,
+    "cardId": 301504
+  },
+  {
+    "id": 1011158,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 302,
+    "cardId": 301505
+  },
+  {
+    "id": 1011180,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 303,
+    "cardId": 301506
+  },
+  {
+    "id": 1009617,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 304,
+    "cardId": 301507
+  },
+  {
+    "id": 1009622,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 305,
+    "cardId": 301508
+  },
+  {
+    "id": 1009615,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 306,
+    "cardId": 301509
+  },
+  {
+    "id": 1010327,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 307,
+    "cardId": 301510
+  },
+  {
+    "id": 1017309,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 308,
+    "cardId": 301511
+  },
+  {
+    "id": 1011225,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 309,
+    "cardId": 301512
+  },
+  {
+    "id": 1011172,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 310,
+    "cardId": 301513
+  },
+  {
+    "id": 1011115,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 311,
+    "cardId": 301514
+  },
+  {
+    "id": 1013504,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 312,
+    "cardId": 301515
+  },
+  {
+    "id": 1011000,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 313,
+    "cardId": 301516
+  },
+  {
+    "id": 1011083,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 314,
+    "cardId": 301517
+  },
+  {
+    "id": 1009654,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 315,
+    "cardId": 301518
+  },
+  {
+    "id": 1010714,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 316,
+    "cardId": 301519
+  },
+  {
+    "id": 1010728,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 317,
+    "cardId": 301520
+  },
+  {
+    "id": 1009655,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 318,
+    "cardId": 301521
+  },
+  {
+    "id": 1014986,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 319,
+    "cardId": 301522
+  },
+  {
+    "id": 1017103,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 320,
+    "cardId": 301523
+  },
+  {
+    "id": 1011215,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 321,
+    "cardId": 301524
+  },
+  {
+    "id": 1009656,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 322,
+    "cardId": 301525
+  },
+  {
+    "id": 1011110,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 323,
+    "cardId": 301526
+  },
+  {
+    "id": 1009658,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 324,
+    "cardId": 301527
+  },
+  {
+    "id": 1009659,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 325,
+    "cardId": 301528
+  },
+  {
+    "id": 1017313,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 326,
+    "cardId": 301529
+  },
+  {
+    "id": 1017106,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 327,
+    "cardId": 301530
+  },
+  {
+    "id": 1017315,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 328,
+    "cardId": 301531
+  },
+  {
+    "id": 1017328,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 329,
+    "cardId": 301532
+  },
+  {
+    "id": 1017302,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 330,
+    "cardId": 301533
+  },
+  {
+    "id": 1010857,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 331,
+    "cardId": 301534
+  },
+  {
+    "id": 1011166,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 332,
+    "cardId": 301535
+  },
+  {
+    "id": 1009671,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 333,
+    "cardId": 301536
+  },
+  {
+    "id": 1010988,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 334,
+    "cardId": 301537
+  },
+  {
+    "id": 1010986,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 335,
+    "cardId": 301538
+  },
+  {
+    "id": 1011182,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 336,
+    "cardId": 301539
+  },
+  {
+    "id": 1010989,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 337,
+    "cardId": 301540
+  },
+  {
+    "id": 1011316,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 338,
+    "cardId": 301541
+  },
+  {
+    "id": 1010872,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 339,
+    "cardId": 301542
+  },
+  {
+    "id": 1010666,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 340,
+    "cardId": 301543
+  },
+  {
+    "id": 1011267,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 341,
+    "cardId": 301544
+  },
+  {
+    "id": 1009700,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 342,
+    "cardId": 301545
+  },
+  {
+    "id": 1017322,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 343,
+    "cardId": 301546
+  },
+  {
+    "id": 1017304,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 344,
+    "cardId": 301547
+  },
+  {
+    "id": 1009704,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 345,
+    "cardId": 301548
+  },
+  {
+    "id": 1010742,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 346,
+    "cardId": 301549
+  },
+  {
+    "id": 1010342,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 347,
+    "cardId": 301550
+  },
+  {
+    "id": 1009712,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 348,
+    "cardId": 301551
+  },
+  {
+    "id": 1016838,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 349,
+    "cardId": 301552
+  },
+  {
+    "id": 1010680,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 350,
+    "cardId": 301553
+  },
+  {
+    "id": 1011290,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 351,
+    "cardId": 301554
+  },
+  {
+    "id": 1010729,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 352,
+    "cardId": 301555
+  },
+  {
+    "id": 1017297,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 353,
+    "cardId": 301556
+  },
+  {
+    "id": 1017325,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 354,
+    "cardId": 301557
+  },
+  {
+    "id": 1017479,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 355,
+    "cardId": 301558
+  },
+  {
+    "id": 1010804,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 356,
+    "cardId": 301559
+  },
+  {
+    "id": 1010875,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 357,
+    "cardId": 301560
+  },
+  {
+    "id": 1009732,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 358,
+    "cardId": 301561
+  },
+  {
+    "id": 1011163,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 359,
+    "cardId": 301562
+  },
+  {
+    "id": 1009739,
+    "npt": 0,
+    "rarity": "legendary",
+    "priceInitial": 360,
+    "cardId": 301563
+  }
+]

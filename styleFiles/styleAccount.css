@@ -1,0 +1,25 @@
+strong, p {
+	color: #FFFFFF;
+}
+
+.cardBg {
+	background: 
+		radial-gradient(circle at top center, rgba(255, 255, 255, 0.6), transparent 50%),
+		linear-gradient(to top, #0f1e2e, #2a4b75);
+}
+.profile-container {
+	display: flex;
+	align-items: center;
+	padding: 20px;
+}
+.profile-image {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	margin-right: 20px;
+}
+.profile-data {
+	display: flex;
+	flex-direction: column;
+}

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>MarverlStars</title>
+		<link rel="icon" href="../assets/marvelStarsIcon.webp" type="image/icon type">
+
+		<!--	For Bootstrap CDN	-->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+		<!--	For Animate.css CDN	-->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+		<!--	For Vanilla-tilt.js CDN	-->
+		<script src="https://cdn.jsdelivr.net/npm/vanilla-tilt@1.7.0/dist/vanilla-tilt.min.js"></script>
+		<!--	For Hover.css CDN	-->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hover.css/css/hover-min.css">
+
+		<link rel="stylesheet" href="../styleFiles/styleShop.css">
+		<style>
+
+		</style>
+	</head>
+	<body>
+		<div id="genContainer" class="container py-1 px-0">
+			<div class="row m-0 align-items-center p-0 bg-body-tertiary m-0 p-0 mb-2" style="width: 100%;">
+				<div id="navBarDiv" class="col-9 px-0">
+					<nav class="navbar navbar-expand-lg bg-body-tertiary px-0 py-1">
+						<div class="container-fluid">
+							<a class="navbar-brand" href="homePage.html"><img style="height: 30px; width: 95px;" src="../assets/marvelNavImg.webp"></a>
+							<button class="navbar-toggler btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarNavDropdown">
+								<ul class="navbar-nav">
+									<li class="nav-item">
+										<a style="border-bottom: solid 3px blue;" class="nav-link" aria-current="page" href="shop.html">Shop</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="market.html">Market</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" aria-current="page" href="inventory.html">Inventory</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</nav>
+				</div>
+				<div class="col-3 d-flex justify-content-end"> <!-- position-absolute top-0 end-0 mt-3 -->
+					<div class="nav-item dropdown me-2">
+						<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							<img id="profileDropdownImg" style="height: 25px; width: 25px; border-radius: 50%;" src="../assets/profileEmpty.png">
+						</a>
+						<ul class="dropdown-menu dropdown-menu-end mt-2">
+							<li><a class="dropdown-item" href="/logged/account.html">View Profile <img style="height: 20px; width: 20px;" src="../assets/profileIcon.png"></a></li>
+							<li><a class="dropdown-item" href="../docs/apiSwagger" target="_blank">Api Swagger <img style="height: 20px; width: 20px;" src="../assets/docImage.png"></a></li>
+							<li><a class="dropdown-item" href="/logged/documentation.html">Help <img style="height: 20px; width: 20px;" src="../assets/helpIcon.png"></a></li>
+							<li><a id="logoutLink" class="dropdown-item" onclick="logoutSequence()">Logout <img style="height: 20px; width: 20px;" src="../assets/logoutIcon.png"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- Shop -->
+			<div id="shopGenDiv" class="m-0 p-0">
+				<template id="shopGenTemplate">
+					<div class="row m-0">
+						<div class="p-0 m-0">
+							<!-- Modal Dollar -->
+							<div class="modal fade" id="modalPaymentDollar" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<img src="../assets/visaMastercard.png" style="max-height: 30px; max-width: 150px;">
+											<h2 class="modal-title fs-5 justify-content-end" id="exampleModalLabel"></h2>
+											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+										</div>
+										<div class="modal-body">
+											<div id="cardNumberDiv" class="row mb-3">
+												<div class="col-12">
+													<label class="form-label">Card number</label>
+													<input id="crediCardNumber" type="tel" pattern="\d{13,19}" maxlength="19" placeholder="1234 5678 9012 3456" class="form-control" required>
+												</div>
+											</div>
+											<div id="expireCvcDiv" class="row mb-3 d-flex">
+												<div class="col-6">
+													<label class="form-label">Expire date</label>
+													<input id="crediCardExpireDate" type="month" placeholder="MM/AA" class="form-control" required>
+												</div>
+												<div class="col-6">
+													<label class="form-label">CVC/CVV</label>
+													<input id="crediCardCvc" type="text" pattern="\d{3,4}" maxlength="4" inputmode="numeric" placeholder="3 digits" class="form-control" required>
+												</div>
+											</div>
+											<div id="paymentButtonDiv" class="row">
+												<div class="col-12">
+													<button id="paymentButtonDollar" type="button" class="btn btn-primary btn-lg d-flex align-items-center justify-content-center" style="width: 100%; border-radius: 50px; padding: 10px 30px;">
+														<i class="bi bi-lock-fill" style="margin-right: 10px;"></i> Pay 00,00 $
+													</button>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<!-- Modal Hp -->
+							<div class="modal fade" id="modalPaymentHp" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<img src="../assets/heroPoints.png" class="me-2" style="max-height: 30px; max-width: 150px;">
+											<h2 class="modal-title fs-5 justify-content-end text-danger" id="exampleModalLabel">00.00$</h2>
+											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+										</div>
+										<div class="modal-body">
+											<div id="packDiv" class="row mb-3">
+												<div class="col-12 d-flex flex-column justify-content-center align-items-center">
+													<img id="packImgShop" style="max-height: 350px; max-width: 350px;">
+													<h3 id="packQuantity" class="form-label mt-2">x00</h3>
+												</div>
+											</div>
+											<div id="paymentButtonDivHp" class="row">
+												<div class="col-12">
+													<button id="paymentButtonHp" type="button" class="btn btn-primary btn-lg d-flex align-items-center justify-content-center" style="width: 100%; border-radius: 50px; padding: 10px 30px;">
+														<i class="bi bi-lock-fill" style="margin-right: 10px;"></i> Pay 00,00 
+														<img src="../assets/heroPoints.png" class="" style="max-height: 100px; max-width: 100px;">
+													</button>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<!-- Carousels -->
+							<div id="carouselExample" class="carousel slide carousel-dark mb-2">
+								<div id="carouselX" class="carousel-inner d-block">
+									<h3 class="m-0 ms-2 mb-1 p-0" style="text-align: center;"><u><b id="shopXCategory">X:</b></h3>
+									<div id="carouselActiveX" class="carousel-item active">
+										<div class="card cardBg container col-12 m-0 p-0 align-content-center">
+											<div class="card-body p-1 pb-2 row m-0">
+												<div id="containerXshopActive" class="container row container row row-cols-lg-5 row-cols-md-4 row-cols-sm-2 g-1 d-flex justify-content-center">
+													<template id="templateshop">
+														<div class="m-0 p-0">
+															<div class="col">
+																<div class="g-2" style="justify-content: center; display: flex; flex-direction: column;">
+																	<div class="hvr-float" style="margin: 0 auto; display: flex; justify-content: center;">
+																		<img class="detailsCardImg ComicImg" src="../assets/imageNotFound.png"> <!-- style="clip-path: url(#imgMask);" -->
+																	</div>
+																	<div class="mt-2" style="display: flex; justify-content: center;">
+																		<button type="button" class="btn btn-primary">X</button>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</template>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div id="carouselInactiveXs">
+										<template id="templateXshopTemplateContainer">
+											<div class="carousel-item">
+												<div class="card cardBg container col-12 m-0 p-0">
+													<div class="card-body p-1 pb-2 row m-0">
+														<div id="containerXshopInactive" class="container row container row row-cols-lg-5 row-cols-md-4 row-cols-sm-2 g-1 d-flex justify-content-center">
+															<template id="templateshop">
+																<div class="m-0 p-0">
+																	<div class="col">
+																		<div class="g-2" >
+																			<div class="hvr-float d-flex justify-content-center">
+																				<img class="detailsCardImg ComicImg" src="../assets/imageNotFound.png"> <!-- style="clip-path: url(#imgMask);" -->
+																			</div>
+																			<div class="mt-2" style="display: flex; justify-content: center;">
+																				<button type="button" class="btn btn-primary">X</button>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</template>
+														</div>
+													</div>
+												</div>
+											</div>
+										</template>
+									</div>
+								</div>
+								<button id="carouselControlPrev" class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev" style="max-width: 80px;">
+									<span class="carousel-control-prev-icon controlsBg" aria-hidden="true"></span>
+									<span class="visually-hidden">Previous</span>
+								</button>
+								<button id="carouselControlNext" class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next" style="max-width: 80px;">
+									<span class="carousel-control-next-icon controlsBg" aria-hidden="true"></span>
+									<span class="visually-hidden">Next</span>
+								</button>
+							</div>
+						</div>
+					</div>
+				</template>
+			</div>
+
+	<svg viewBox="0 0 100 100" style="width: 0; height: 0">
+		<clipPath id="imgMask" clipPathUnits="objectBoundingBox">
+			<path d="M0 .2 0 1 1 1 1 .2Q.85.2.85.05.5-.05.15.05.15.2 0 .2"></path>
+			<!-- <path d="M0 .2 0 .75C0 .9.4.9.5 1 .6.9 1 .9 1 .75L1 .2Q.85.2.85.05.5-.05.15.05.15.2 0 .2"></path> -->
+			<!-- <path d="M0 1 0 .15A1 1 180 011 .15L1 1Z"></path> -->
+		</clipPath>
+		<clipPath id="pMask" clipPathUnits="objectBoundingBox">
+			<path d="M0 0 0 .75C0 .9.4.9.5 1 .6.9 1 .9 1 .75L1 0"></path>
+		</clipPath>
+	</svg>
+    <!-- For Bootstrap CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- For Vanilla-tilt.js CDN -->
+    <script>VanillaTilt.init(document.querySelector(".tilt-element"));</script>
+
+	<script src="../generalJs/frontend.js"></script>
+	<script src="../generalJs/shop.js"></script>
+	<script src="script.js"></script>
+    <script>
+		let modalPayment = new bootstrap.Modal('#modalPaymentDollar');
+		let modalHp = new bootstrap.Modal('#modalPaymentHp');
+
+		document.addEventListener('show.bs.modal', async function (event) {
+			let button = event.relatedTarget;
+
+			let params = button.getAttribute('data-params');
+			//console.log(params);
+			const values = params.split(";");
+
+			let modal = event.target;
+			modal.querySelector('#exampleModalLabel').textContent = "";
+			if (modal.id === "modalPaymentDollar") {
+				modal.querySelector('#paymentButtonDollar').textContent = 'Pay: ' + values[0] + " $";
+				modal.querySelector('#paymentButtonDollar').setAttribute("onClick", `buy('${params}')`);
+			} else {
+				let btnCaller = event.relatedTarget;
+				modal.querySelector('#packQuantity').textContent = `${btnCaller.textContent}`;
+				modal.querySelector('#paymentButtonHp').textContent = `Pay: ${values[0]} Hp`;
+				modal.querySelector('#paymentButtonHp').setAttribute("onClick", `buy('${params}')`);
+				// Imposto le immagini
+				if (values[1].includes("Normal")) {
+					modal.querySelector('#packImgShop').src = `../assets/packs/common/still/STILL.png`;
+				} else if (values[1].includes("Epic")) {
+					modal.querySelector('#packImgShop').src = `../assets/packs/epic/still/STILL.png`;
+				} else if (values[1].includes("Legendary")) {
+					modal.querySelector('#packImgShop').src = `../assets/packs/legendary/still/STILL.png`;
+				}
+			}
+		});
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>MarverlStars</title>
+		<link rel="icon" href="../assets/marvelStarsIcon.webp" type="image/icon type">
+
+		<!--	For Bootstrap CDN	-->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+		<!--	For Animate.css CDN	-->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+		<!--	For Vanilla-tilt.js CDN	-->
+		<script src="https://cdn.jsdelivr.net/npm/vanilla-tilt@1.7.0/dist/vanilla-tilt.min.js"></script>
+		<!--	For Hover.css CDN	-->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hover.css/css/hover-min.css">
+
+		<link rel="stylesheet" href="../styleFiles/styleInventory.css">
+		<link rel="stylesheet" href="../styleFiles/styleHomepage.css">
+		<style>
+		</style>
+	</head>
+	<body>
+		<div id="genContainer" class="container py-1 px-0">
+			<div class="row m-0 align-items-center p-0 bg-body-tertiary m-0 p-0 mb-1" style="width: 100%;">
+				<div id="navBarDiv" class="col-9 px-0">
+					<nav class="navbar navbar-expand-lg bg-body-tertiary px-0 py-1">
+						<div class="container-fluid">
+							<a class="navbar-brand" href="homePage.html"><img style="height: 40px; width: 110px;" src="../assets/marvelNavImg.webp"></a>
+							<button class="navbar-toggler btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarNavDropdown">
+								<ul class="navbar-nav">
+									<li class="nav-item">
+										<a class="nav-link" aria-current="page" href="shop.html">Shop</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="market.html">Market</a>
+									</li>
+									<li class="nav-item">
+										<a style="border-bottom: solid 3px blue;" class="nav-link" aria-current="page" href="inventory.html">Inventory</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</nav>
+				</div>
+
+				<div id="loginIconsDiv" class="col-3 d-flex justify-content-end"> <!-- position-absolute top-0 end-0 mt-3 -->
+					<div class="nav-item dropdown me-2">
+						<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							<img id="profileDropdownImg" style="height: 25px; width: 25px; border-radius: 50%;" src="../assets/profileEmpty.png">
+						</a>
+						<ul class="dropdown-menu dropdown-menu-end mt-2">
+							<li><a class="dropdown-item" href="/logged/account.html">View Profile <img style="height: 20px; width: 20px;" src="../assets/profileIcon.png"></a></li>
+							<li><a class="dropdown-item" href="../docs/apiSwagger" target="_blank">Api Swagger <img style="height: 20px; width: 20px;" src="../assets/docImage.png"></a></li>
+							<li><a class="dropdown-item" href="/logged/documentation.html">Help <img style="height: 20px; width: 20px;" src="../assets/helpIcon.png"></a></li>
+							<li><a id="logoutLink" class="dropdown-item" onclick="logoutSequence()">Logout <img style="height: 20px; width: 20px;" src="../assets/logoutIcon.png"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- Pack Opening -->
+
+			<!-- Modal Packs Opening -->
+			<div class="modal fade" id="openPacksModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+				<div class="modal-dialog modal-lg d-flex justify-content-center align-items-center">
+					<div class="modal-content modalBg">
+						<div class="modal-header">
+							<h1 class="modal-title fs-5 text-danger" id="modalPackLabel"></h1>
+							<button id="openPackModalCloseBtn" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+						<div class="modal-body text-center cardBg" style="border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;">
+							<!-- Common anim -->
+							<div id="animationsContainercommon" class="mb-3 d-none" style=" min-height: 300px; position: relative;">
+								<!-- Video per animazione di Glow -->
+								<video id="glowAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/common/anim/GLOW.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di DeGlow -->
+								<video id="deglowAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/common/anim/DEGLOW.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di Shake -->
+								<video id="shakeAnimation" class="pack-animation modalAnim invisible" preload="auto" loop muted>
+									<source src="../assets/packs/common/anim/SHAKE.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di Open -->
+								<video id="openAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/common/anim/OPEN.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Immagine idle -->
+								<img id="idleImage" class="pack-idle modalAnim" src="../assets/packs/common/still/STILL.png" alt="Idle Image">
+							</div>
+							<!-- Epic anim -->
+							<div id="animationsContainerepic" class="mb-3 d-none" style=" min-height: 300px; position: relative;">
+								<!-- Video per animazione di Glow -->
+								<video id="glowAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/epic/anim/GLOW.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di DeGlow -->
+								<video id="deglowAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/epic/anim/DEGLOW.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di Shake -->
+								<video id="shakeAnimation" class="pack-animation modalAnim invisible" preload="auto" loop muted>
+									<source src="../assets/packs/epic/anim/SHAKE.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di Open -->
+								<video id="openAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/epic/anim/OPEN.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Immagine idle -->
+								<img id="idleImage" class="pack-idle modalAnim" src="../assets/packs/epic/still/STILL.png" alt="Idle Image">
+							</div>
+							<!-- Legendary anim -->
+							<div id="animationsContainerlegendary" class="mb-3 d-none" style=" min-height: 300px; position: relative;">
+								<!-- Video per animazione di Glow -->
+								<video id="glowAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/legendary/anim/GLOW.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di DeGlow -->
+								<video id="deglowAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/legendary/anim/DEGLOW.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di Shake -->
+								<video id="shakeAnimation" class="pack-animation modalAnim invisible" preload="auto" loop muted>
+									<source src="../assets/packs/legendary/anim/SHAKE.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Video per animazione di Open -->
+								<video id="openAnimation" class="pack-animation modalAnim invisible" preload="auto" muted>
+									<source src="../assets/packs/legendary/anim/OPEN.webm" type="video/webm">
+									Your browser does not support the video tag.
+								</video>
+
+								<!-- Immagine idle -->
+								<img id="idleImage" class="pack-idle modalAnim" src="../assets/packs/legendary/still/STILL.png" alt="Idle Image">
+							</div>
+
+							<!-- Show Cards from pack -->
+							<div id="showCardsDiv">
+								<div id="divNoName1" class="d-none card container col-12 m-0 p-0 align-items-center mb-1" style="background-color: #516A86;">
+									<div class="card-body p-1 row m-0">
+										<div id="containerHero" class="container row row-cols-xl-4 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 row-cols-1" style="box-sizing: unset;">
+											<template id="showCardsTemplate">
+												<div class="hvr-grow">
+													<a class="btn buttonCharacter">
+														<div class="col ">
+															<div class="divCardHero">
+																<div class="borderImg">
+																	<img class="figurinaImg" style="clip-path: url(#imgMask);"> <!-- style="clip-path: url(#imgMask);" -->
+																</div>
+																<div class="borderP">
+																	<p class="figurinaName m-0 text-truncate p-2" style="border-top: solid 5px red;clip-path: url(#pMask); background-color: white; height: 50px;"></p>
+																</div>
+															</div>
+														</div>
+													</a>
+												</div>
+											</template>
+										</div>
+									</div>
+								</div>
+							</div>
+							<button id="openx1Pack" type="button" class="btn btn-primary mt-2">Open x1</button>
+							<button id="okBtn" type="button" onclick="returnToPackOpening()" class="btn btn-primary mt-2 d-none">Continue</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Invetory -->
+			<div class="row m-0">
+				<div id="inventoryOpt" class="btn-group" role="group" aria-label="Basic radio toggle button group">
+					<input type="radio" class="btn-check" name="btnradio" id="btnradio2" autocomplete="off" checked>
+					<label class="btn btn-outline-primary" for="btnradio2">Open Packs</label>
+
+					<input type="radio" class="btn-check" name="btnradio" id="btnradio1" autocomplete="off">
+					<label class="btn btn-outline-primary" for="btnradio1">Collection</label>
+				</div>
+
+				<!-- Open Packs -->
+				<div id="openPacksGenDiv" class="col-12" style="display: none;">
+					<div class="card cascade-item-openpacks cardBg">
+						<div class="card-body row">
+							<!-- Common -->
+							<div data-bs-target="#openPacksModal" data-bs-toggle="modal" data-param="common" class="col-12 col-sm-12 col-md-4 d-flex flex-column align-items-center justify-content-center mb-3 buttonDiv">
+								<img src="../assets/packs/common/still/STILL.png" class="card-img-top invImgShow hvr-float" alt="..." data-param="/assets/packs/common/still/COMUNE_STILL_GLOW.png">
+								<h3 class="card-text text-center text-light">x0</h3>
+								<button class="btn btn-primary">Open</button>
+							</div>
+							<!-- Epic -->
+							<div data-bs-target="#openPacksModal" data-bs-toggle="modal" data-param="epic" class="col-12 col-sm-12 col-md-4 d-flex flex-column align-items-center justify-content-center mb-3 buttonDiv">
+								<img src="../assets/packs/epic/still/STILL.png" class="card-img-top invImgShow hvr-float" alt="..." data-param="../assets/packs/epic/still/EPICA_STILL_GLOW.png">
+								<h3 class="card-text text-center text-light">x0</h3>
+								<button class="btn btn-primary">Open</button>
+							</div>
+							<!-- Legendary -->
+							<div data-bs-target="#openPacksModal" data-bs-toggle="modal" data-param="legendary" class="col-12 col-sm-12 col-md-4 d-flex flex-column align-items-center justify-content-center mb-3 buttonDiv">
+								<img src="../assets/packs/legendary/still/STILL.png" class="card-img-top invImgShow hvr-float" alt="..." data-param="../assets/packs/legendary/still/LEGGENDARIA_STILL_GLOW.png">
+								<h3 class="card-text text-center text-light">x0</h3>
+								<button class="btn btn-primary">Open</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Collection -->
+				<div id="collectionGenDiv" class="col-12" style="display: block;">
+					<div class="card cascade-item-collection h-100 container col-12 m-0 p-0 align-items-center cardBg">
+						<div id="pageNavDiv" class="mt-3">
+							<nav class="" aria-label="Page navigation example">
+								<ul class="pagination">
+									<li>
+										<form class="d-flex" role="search">
+											<input id="searchBar" pattern="^[a-zA-Z\s\(\)\-]+$" class="form-control" type="search" placeholder="Search" aria-label="Search">
+										</form>
+									</li>
+								</ul>
+							</nav>
+						</div>
+						<div class="card-body p-1 row m-0">
+							<div id="containerHero2" class="container row row-cols-xl-6 row-cols-lg-5 row-cols-md-4 row-cols-sm-3 row-cols-2" style="display: flex; justify-content: center;">
+								<template id="cardHero">
+									<div class="hvr-grow">
+										<a class="btn buttonCharacter">
+											<div class="col ">
+												<div class="divCardHero">
+													<div class="borderImg1">
+														<img class="figurinaImg" style="clip-path: url(#imgMask);"> <!-- style="clip-path: url(#imgMask);" -->
+													</div>
+													<div class="borderP1">
+														<p class="figurinaName m-0 text-truncate p-2" style="border-top: solid 5px red;clip-path: url(#pMask); background-color: white; height: 50px;"></p>
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</template>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	<svg viewBox="0 0 100 100" style="width: 0; height: 0">
+		<clipPath id="imgMask" clipPathUnits="objectBoundingBox">
+			<path d="M0 .2 0 1 1 1 1 .2Q.85.2.85.05.5-.05.15.05.15.2 0 .2"></path>
+			<!-- <path d="M0 .2 0 .75C0 .9.4.9.5 1 .6.9 1 .9 1 .75L1 .2Q.85.2.85.05.5-.05.15.05.15.2 0 .2"></path> -->
+			<!-- <path d="M0 1 0 .15A1 1 180 011 .15L1 1Z"></path> -->
+		</clipPath>
+		<clipPath id="pMask" clipPathUnits="objectBoundingBox">
+			<path d="M0 0 0 .75C0 .9.4.9.5 1 .6.9 1 .9 1 .75L1 0"></path>
+		</clipPath>
+	</svg>
+    <!-- For Bootstrap CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- For Vanilla-tilt.js CDN -->
+    <script>VanillaTilt.init(document.querySelector(".tilt-element"));</script>
+
+	<script src="../generalJs/frontend.js"></script>
+	<script src="../generalJs/inventory.js"></script>
+	<script src="script.js"></script>
+	<script>
+	</script>
+</body>
+
+</html>

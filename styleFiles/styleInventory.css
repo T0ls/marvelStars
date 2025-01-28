@@ -1,0 +1,113 @@
+
+/* Per Open Packs */
+.cascade-item-openpacks {
+	opacity: 0;
+	transform: translateY(20px);
+	transition: all 0.5s ease;
+}
+
+.cascade-show-openpacks {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+/* Per Collection */
+.cascade-item-collection {
+	opacity: 0;
+	transform: translateY(20px);
+	transition: all 0.5s ease;
+}
+
+.cascade-show-collection {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.cardBg {
+	background: 
+		radial-gradient(circle at top center, rgba(255, 255, 255, 0.6), transparent 50%),
+		linear-gradient(to top, #0f1e2e, #2a4b75);
+}
+
+.modalAnim{
+	height: 60%;
+	width: 60%;
+}
+
+.modal-body .mb-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px; /* o l'altezza che desideri */
+    position: relative;
+}
+
+.invisible {
+	display: none;
+}
+
+.d-block {
+    visibility: visible;
+    opacity: 1;
+}
+
+.modalAnim {
+    position: relative;
+    z-index: 1000; /* Assicurati che abbiano un z-index sufficientemente alto */
+}
+
+/*Common*/
+.borderPcommon {
+	background-color: #0c4aa0;
+	clip-path: url(#pMask);
+	padding: 0px 5px 5px 5px;
+}
+
+.borderImgcommon {
+	background-color: #0c4aa0;
+	clip-path: url(#imgMask);
+	padding: 5px 5px 0px 5px;
+}
+
+/*Rare*/
+.borderPrare {
+	background-color: #1f9316;
+	clip-path: url(#pMask);
+	padding: 0px 5px 5px 5px;
+}
+
+.borderImgrare {
+	background-color: #1f9316;
+	clip-path: url(#imgMask);
+	padding: 5px 5px 0px 5px;
+}
+
+/*Epic*/
+.borderPepic {
+	background-color: #55348c;
+	clip-path: url(#pMask);
+	padding: 0px 5px 5px 5px;
+}
+
+.borderImgepic {
+	background-color: #55348c;
+	clip-path: url(#imgMask);
+	padding: 5px 5px 0px 5px;
+}
+
+/*Legendary*/
+.borderPlegendary {
+	background-color: #FFD700;
+	clip-path: url(#pMask);
+	padding: 0px 5px 5px 5px;
+}
+
+.borderImglegendary {
+	background-color: #FFD700;
+	clip-path: url(#imgMask);
+	padding: 5px 5px 0px 5px;
+}
+
+.imgBW{
+    filter: grayscale(100%);
+}
