@@ -57,7 +57,7 @@ A peer-to-peer trading platform.
 
 ---
 
-## 🛠 Technical Architecture
+## Technical Architecture
 
 **Frontend:**
 * **HTML5 & CSS3:** Responsive design with specific styling for Market, Shop, and Inventory.
@@ -78,4 +78,5 @@ A peer-to-peer trading platform.
 
 This project includes fully integrated Swagger documentation.
 Once the server is running, you can access the interactive API docs at:
+
 
