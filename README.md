@@ -1,4 +1,4 @@
-# 🌟 MarvelStars - Digital Trading Card Game
+# MarvelStars - Digital Trading Card Game
 
 ![MarvelStars Banner](./assets/marvelBanner.webp)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 - [About the Project](#-about-the-project)
 - [Key Features](#-key-features)
   - [1. User Account System](#1-user-account-system)
@@ -20,13 +20,13 @@
 
 ---
 
-## 🚀 About the Project
+## About the Project
 
 MarvelStars brings the excitement of trading card games (TCG) to the web. It features a complete economy system where users manage "Hero Points," calculate card rarities, and interact with a dynamic market. Whether you are hunting for a **Legendary** card or trying to complete a full set of **Common** heroes, MarvelStars provides an immersive experience.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. User Account System
 A secure and robust authentication system allowing users to maintain their progress.
@@ -74,7 +74,8 @@ A peer-to-peer trading platform.
 
 ---
 
-## 🔌 API Documentation
+## API Documentation
 
 This project includes fully integrated Swagger documentation.
 Once the server is running, you can access the interactive API docs at:
+
